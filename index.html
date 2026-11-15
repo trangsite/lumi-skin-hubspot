@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lumi Skin | Free skincare consultation · Tư vấn chăm sóc da miễn phí</title>
+  <meta name="description" content="Tell us your skin type and concern and get a personal routine. Cho Lumi biết loại da và vấn đề da để nhận routine phù hợp. Demo project, fictional brand.">
+
+  <!-- Start of HubSpot Embed Code (tracking) -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js-na2.hs-scripts.com/247929954.js"></script>
+  <!-- End of HubSpot Embed Code -->
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Be+Vietnam+Pro:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --porcelain: #f6f4f0;
+      --paper: #ffffff;
+      --ink: #1f2f52;
+      --ink-soft: #55607a;
+      --amber: #94582c;
+      --sage: #dfe6dc;
+      --mist: #e9edf1;
+      --line: #dcdfe3;
+      --serif: "Cormorant Garamond", "Times New Roman", Georgia, serif;
+      --sans: "Be Vietnam Pro", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --porcelain: #14181f;
+        --paper: #1c222c;
+        --ink: #e8edf6;
+        --ink-soft: #a5afc2;
+        --amber: #d6955f;
+        --sage: #26302a;
+        --mist: #232a35;
+        --line: #333b49;
+      }
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      background: var(--porcelain);
+      color: var(--ink);
+      font-family: var(--sans);
+      font-weight: 400;
+      line-height: 1.65;
+    }
+    a { color: inherit; }
+    :focus-visible { outline: 2px solid var(--amber); outline-offset: 3px; }
+
+    .wrap { max-width: 1120px; margin: 0 auto; padding: 0 22px; }
+
+    /* Bilingual text pattern: EN first, VI directly under it */
+    .vi { color: var(--ink-soft); }
+    p .vi, li .vi { display: block; }
+
+    header.top { padding: 22px 0; }
+    header.top .wrap { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; }
+    .brand { font-family: var(--serif); font-size: 1.9rem; font-weight: 500; letter-spacing: 0.14em; text-decoration: none; }
+    .top-note { font-size: 0.85rem; color: var(--ink-soft); text-align: right; }
+
+    /* Hero */
+    .hero { padding: 24px 0 72px; }
+    .hero-grid { display: grid; gap: 40px; grid-template-columns: 1fr; }
+    @media (min-width: 900px) { .hero-grid { grid-template-columns: 1.15fr 1fr; align-items: start; gap: 56px; } }
+    h1 { font-family: var(--serif); font-weight: 500; font-size: clamp(2.3rem, 5.2vw, 3.6rem); line-height: 1.08; margin: 0 0 12px; letter-spacing: -0.01em; }
+    h1 .vi { display: block; font-size: 0.62em; line-height: 1.2; margin-top: 10px; font-weight: 400; }
+    .lead { font-size: 1.05rem; max-width: 52ch; margin: 22px 0 26px; }
+    .lead .vi { margin-top: 6px; }
+    .perks { list-style: none; padding: 0; margin: 0 0 30px; display: grid; gap: 14px; max-width: 54ch; }
+    .perks li { padding-left: 26px; position: relative; }
+    .perks li::before { content: ""; position: absolute; left: 0; top: 0.7em; width: 14px; height: 1px; background: var(--amber); }
+    .perks strong { font-weight: 500; }
+    .hero-photo { margin: 0; border-radius: 4px; overflow: hidden; background: var(--mist); }
+    .hero-photo img { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; }
+
+    .form-card {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: 4px;
+      padding: 28px 26px 22px;
+    }
+    @media (min-width: 900px) { .form-card { position: sticky; top: 20px; } }
+    .form-card h2 { font-family: var(--serif); font-weight: 500; font-size: 1.7rem; line-height: 1.15; margin: 0 0 6px; }
+    .form-card h2 .vi { display: block; font-size: 0.72em; margin-top: 4px; font-weight: 400; }
+    .form-card .sub { margin: 0 0 18px; font-size: 0.92rem; color: var(--ink-soft); }
+    .form-card .sub .vi { margin-top: 2px; }
+
+    /* Catalog */
+    .catalog { background: var(--paper); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); padding: 72px 0 80px; }
+    .section-head { max-width: 60ch; margin-bottom: 36px; }
+    .section-head h2 { font-family: var(--serif); font-weight: 500; font-size: clamp(1.9rem, 3.6vw, 2.5rem); line-height: 1.12; margin: 0 0 10px; }
+    .section-head h2 .vi { display: block; font-size: 0.62em; margin-top: 6px; font-weight: 400; }
+    .section-head p { margin: 0; color: var(--ink-soft); }
+    .grid { display: grid; gap: 28px 22px; grid-template-columns: 1fr; }
+    @media (min-width: 560px) { .grid { grid-template-columns: repeat(2, 1fr); } }
+    @media (min-width: 960px) { .grid { grid-template-columns: repeat(4, 1fr); } }
+    .product { margin: 0; }
+    .product .img { background: var(--mist); border-radius: 4px; overflow: hidden; aspect-ratio: 4 / 5; }
+    .product img { display: block; width: 100%; height: 100%; object-fit: cover; }
+    .product h3 { font-family: var(--serif); font-weight: 600; font-size: 1.3rem; line-height: 1.2; margin: 14px 0 2px; }
+    .product .vi-name { font-size: 0.85rem; color: var(--ink-soft); margin: 0 0 8px; }
+    .product .meta { font-size: 0.85rem; margin: 0; padding-top: 8px; border-top: 1px solid var(--line); }
+    .product .meta .vi { display: block; }
+
+    /* Steps (real sequence) */
+    .steps { padding: 72px 0; }
+    .steps ol { list-style: none; counter-reset: s; padding: 0; margin: 0; display: grid; gap: 28px; grid-template-columns: 1fr; }
+    @media (min-width: 760px) { .steps ol { grid-template-columns: repeat(3, 1fr); } }
+    .steps li { counter-increment: s; padding-top: 16px; border-top: 1px solid var(--ink); }
+    .steps li::before { content: counter(s); font-family: var(--serif); font-size: 1.6rem; color: var(--amber); display: block; line-height: 1; margin-bottom: 8px; }
+    .steps h3 { font-family: var(--serif); font-size: 1.35rem; font-weight: 600; margin: 0 0 4px; line-height: 1.2; }
+    .steps p { margin: 0; font-size: 0.95rem; }
+
+    .cta { background: var(--sage); padding: 56px 0; text-align: center; }
+    .cta h2 { font-family: var(--serif); font-weight: 500; font-size: clamp(1.7rem, 3.4vw, 2.3rem); margin: 0 0 6px; line-height: 1.15; }
+    .cta p { margin: 0 0 22px; }
+    .btn { display: inline-block; background: var(--ink); color: var(--porcelain); padding: 13px 26px; border-radius: 3px; text-decoration: none; font-weight: 500; }
+    .btn .vi { color: inherit; opacity: 0.8; font-weight: 400; font-size: 0.88em; margin-left: 6px; }
+    .btn:hover { background: var(--amber); }
+
+    footer { padding: 34px 0 50px; font-size: 0.82rem; color: var(--ink-soft); }
+    footer p { margin: 0 0 6px; max-width: 80ch; }
+
+    @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+  </style>
+</head>
+<body>
+
+  <header class="top">
+    <div class="wrap">
+      <a class="brand" href="#top">LUMI</a>
+      <div class="top-note">Free consultation
+        <span class="vi">· Tư vấn miễn phí</span></div>
+    </div>
+  </header>
+
+  <main id="top">
+
+    <!-- HERO + FORM -->
+    <section class="hero">
+      <div class="wrap hero-grid">
+        <div>
+          <h1>
+            A routine built around your skin.
+            <span class="vi" lang="vi">Routine dành riêng cho làn da của bạn.</span>
+          </h1>
+          <p class="lead">
+            Tell us your skin type and your main concern. A Lumi advisor will message you with products that fit.
+            <span class="vi" lang="vi">Cho Lumi biết loại da và vấn đề da bạn quan tâm. Chuyên viên sẽ nhắn tin gợi ý sản phẩm phù hợp.</span>
+          </p>
+          <ul class="perks">
+            <li><strong>Advice by skin type and concern.</strong> Oily, dry, combination, sensitive. Acne, aging, pigmentation, hydration.
+              <span class="vi" lang="vi">Tư vấn theo loại da và vấn đề da: da dầu, da khô, da hỗn hợp, da nhạy cảm; mụn, lão hóa, thâm nám, thiếu ẩm.</span></li>
+            <li><strong>Nationwide delivery.</strong> Free shipping on orders from 500,000 VND.
+              <span class="vi" lang="vi">Giao hàng toàn quốc. Miễn phí vận chuyển từ 500.000 VND.</span></li>
+          </ul>
+          <figure class="hero-photo">
+            <img src="images/lumi-hero-wide.jpg" alt="Lumi Deep Gel-Cream jar on a marble shelf in a bright bathroom" width="1600" height="873" fetchpriority="high">
+          </figure>
+        </div>
+
+        <aside class="form-card" id="form-section" aria-labelledby="form-title">
+          <h2 id="form-title">Get your free consultation
+            <span class="vi" lang="vi">Nhận tư vấn miễn phí</span></h2>
+          <p class="sub">Fill in your details and we will contact you soon.
+            <span class="vi block" lang="vi">Điền thông tin, Lumi sẽ liên hệ với bạn sớm nhất.</span></p>
+
+          <!-- HubSpot form embed -->
+          <script src="https://js-na2.hsforms.net/forms/embed/247929954.js" defer></script>
+          <div class="hs-form-frame" data-region="na2" data-form-id="cf375903-3372-4c64-807c-41fe4c47ebd7" data-portal-id="247929954"></div>
+        </aside>
+      </div>
+    </section>
+
+    <!-- CATALOG -->
+    <section class="catalog" id="products" aria-labelledby="catalog-title">
+      <div class="wrap">
+        <div class="section-head">
+          <h2 id="catalog-title">The Lumi range
+            <span class="vi" lang="vi">Bộ sản phẩm Lumi</span></h2>
+          <p>Four essentials, from cleansing to recovery.
+            <span class="vi" lang="vi" style="display:block">Bốn sản phẩm cốt lõi, từ làm sạch đến phục hồi da.</span></p>
+        </div>
+
+        <div class="grid">
+          <figure class="product">
+            <div class="img"><img src="images/lumi-gentle-ph-cleanser.jpg" alt="Lumi Gentle pH Balance Cleanser, 150 ml pump bottle" width="800" height="1000" loading="lazy"></div>
+            <h3>Gentle pH Balance Cleanser</h3>
+            <p class="vi-name" lang="vi">Sữa rửa mặt cân bằng pH dịu nhẹ</p>
+            <p class="meta">150 ml · All skin types
+              <span class="vi" lang="vi">Mọi loại da</span></p>
+          </figure>
+
+          <figure class="product">
+            <div class="img"><img src="images/lumi-b5-hydration-serum.jpg" alt="Lumi B5 Hydration Serum, 30 ml dropper bottle" width="800" height="1000" loading="lazy"></div>
+            <h3>B5 Hydration Serum</h3>
+            <p class="vi-name" lang="vi">Serum cấp ẩm B5</p>
+            <p class="meta">30 ml · Hydration
+              <span class="vi" lang="vi">Cấp ẩm</span></p>
+          </figure>
+
+          <figure class="product">
+            <div class="img"><img src="images/lumi-clear-skin-recovery-serum.jpg" alt="Lumi Clear Skin Recovery Serum, 30 ml amber dropper bottle" width="800" height="1000" loading="lazy"></div>
+            <h3>Clear Skin Recovery Serum</h3>
+            <p class="vi-name" lang="vi">Serum phục hồi da mụn</p>
+            <p class="meta">30 ml · Acne-prone skin
+              <span class="vi" lang="vi">Da dễ nổi mụn</span></p>
+          </figure>
+
+          <figure class="product">
+            <div class="img"><img src="images/lumi-deep-gel-cream.jpg" alt="Lumi Deep Hydration Gel-Cream, 50 ml frosted jar" width="800" height="1000" loading="lazy"></div>
+            <h3>Deep Hydration Gel-Cream</h3>
+            <p class="vi-name" lang="vi">Gel-kem dưỡng ẩm sâu</p>
+            <p class="meta">50 ml · Hydration
+              <span class="vi" lang="vi">Cấp ẩm</span></p>
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <!-- HOW IT WORKS -->
+    <section class="steps" aria-labelledby="steps-title">
+      <div class="wrap">
+        <div class="section-head">
+          <h2 id="steps-title">How it works
+            <span class="vi" lang="vi">Cách thức hoạt động</span></h2>
+        </div>
+        <ol>
+          <li>
+            <h3>Share your skin profile</h3>
+            <p>Send the form with your skin type and concern.
+              <span class="vi" lang="vi">Gửi form kèm loại da và vấn đề da của bạn.</span></p>
+          </li>
+          <li>
+            <h3>Get a personal reply</h3>
+            <p>An advisor contacts you by phone or WhatsApp.
+              <span class="vi" lang="vi">Chuyên viên liên hệ qua điện thoại hoặc WhatsApp.</span></p>
+          </li>
+          <li>
+            <h3>Start your routine</h3>
+            <p>Order what fits, and we follow up as you go.
+              <span class="vi" lang="vi">Đặt sản phẩm phù hợp, Lumi đồng hành theo dõi sau đó.</span></p>
+          </li>
+        </ol>
+      </div>
+    </section>
+
+    <section class="cta">
+      <div class="wrap">
+        <h2>Ready to start?
+          <span class="vi" lang="vi" style="display:block;font-size:0.62em;margin-top:4px">Sẵn sàng bắt đầu?</span></h2>
+        <p>It takes less than a minute.
+          <span class="vi" lang="vi" style="color:inherit;opacity:.75">Chỉ mất chưa đến một phút.</span></p>
+        <a class="btn" href="#form-section">Get my consultation <span class="vi" lang="vi">Nhận tư vấn</span></a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <p>Lumi Skin is a fictional brand. This page is part of a portfolio project and is not a real store. Do not enter real personal data.</p>
+      <p lang="vi">Lumi Skin là thương hiệu giả lập. Trang này thuộc dự án portfolio, không phải cửa hàng thật. Vui lòng không nhập dữ liệu cá nhân thật.</p>
+    </div>
+  </footer>
+
+</body>
+</html>
