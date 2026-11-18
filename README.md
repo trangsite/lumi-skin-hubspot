@@ -7,10 +7,9 @@ I set up a HubSpot CRM, connected the lead sources, built automations and dashbo
 
 ## Links
 
-- Full case study (Notion): [your Notion link]
 - Looker Studio dashboard: https://datastudio.google.com/reporting/f13f8b86-d86e-4311-a3fb-44bff54f0101  
-- Video walkthrough (Loom, 4-5 min): [your Loom link]
 - Landing page (GitHub Pages): https://trangsite.github.io/lumi-skin-hubspot/
+- Full case study (Notion): coming soon
 
 ## The problem
 
@@ -30,7 +29,7 @@ The client had no CRM. Leads lived in Excel, and nobody knew which ad campaign b
 
 1. **HubSpot setup:** deal pipeline, 10 custom contact properties, lists, lifecycle rules, data governance rules.
 2. **Data work:** cleaned a messy Excel file (648 rows → 600 unique contacts) and imported 600 contacts and 242 deals.
-3. **Lead capture:** website form with hidden UTM fields, Meta Instant Form connected to HubSpot, API sync with Apps Script.
+3. **Lead capture:** website form with hidden UTM fields; Meta Instant Form connected to HubSpot Ads; Apps Script that syncs contacts through the HubSpot API.
 4. **Automation and reporting:** 3 workflows (new lead, abandoned cart, repeat purchase), a HubSpot dashboard, and a Looker Studio dashboard for ad spend vs revenue.
 5. **SQL:** 5 queries for spend, CPL, conversion, ROAS, repeat rate, monthly revenue and AOV.
 
@@ -51,12 +50,13 @@ Best ROAS: `google_search_brand` (8.8) and `meta_msg_sensitive` (6.7). Weakest: 
 
 ## Real vs simulated
 
-| Real (built and tested) | Simulated |
+| Real (built and tested) | Simulated or limited |
 |---|---|
 | HubSpot configuration, imports, workflows, dashboards | All customer, order and ad-spend data |
-| Landing page with HubSpot form and tracking | 10 Meta test leads (loaded by CSV) |
-| Meta Instant Form connected to HubSpot Ads | Shopify (Real - tested leads) |
-| Apps Script → HubSpot API (3 test contacts) | WhatsApp (process and templates only) |
+| Landing page with HubSpot form and tracking | Meta leads: the connection and lead delivery to HubSpot are real, but the leads came from Meta's Lead Ads Testing Tool (test data). 10 more Meta-style contacts were loaded by CSV |
+| Meta Instant Form connected to HubSpot Ads | Google Ads: account connected only, no campaigns or data |
+| Apps Script → HubSpot API (3 test contacts created) | Shopify (sample order data only) |
+| | WhatsApp (process and templates only) |
 
 Not done on purpose: running paid ads and adding a payment method to Meta.
 
@@ -67,4 +67,4 @@ Note: HubSpot private apps are no longer available on my account, so I used a **
 
 ## Author
 
-Trang Nguyen, CRM / marketing operations. Contact: thuytrangdalat99@gmail.com
+Trang Nguyen, CRM / marketing operations. Contact: thuytrangdalat99@gmail.com. LinkedIn: www.linkedin.com/in/trang-nguyen-51833921b 
