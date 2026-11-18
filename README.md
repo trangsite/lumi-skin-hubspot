@@ -8,7 +8,7 @@ I set up a HubSpot CRM, connected the lead sources, built automations and dashbo
 ## Links
 
 - Full case study (Notion): [your Notion link]
-- Looker Studio dashboard: [your Looker link]
+- Looker Studio dashboard: https://datastudio.google.com/reporting/f13f8b86-d86e-4311-a3fb-44bff54f0101  
 - Video walkthrough (Loom, 4-5 min): [your Loom link]
 - Landing page (GitHub Pages): https://trangsite.github.io/lumi-skin-hubspot/
 
