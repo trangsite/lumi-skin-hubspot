@@ -1,0 +1,601 @@
+First Name,Last Name,Email,Phone Number,City,Lead Created Date (reference only),Lifecycle Stage,Lead Status,First Touch UTM Source,First Touch UTM Campaign,Last Touch UTM Source,Skin Type,Skin Concern,Preferred Channel,Total Orders Count,LTV (Lifetime Value),Last Order Date,VIP Tier
+Phương Thảo,Trần,phuong.thao.tran609@example.net,+84986096621,TP. Hồ Chí Minh,2026-08-15,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Tố Uyên,Phan,to.uyen.phan733@example.com,+84835493778,TP. Hồ Chí Minh,2026-08-16,Sales Qualified Lead,Connected,meta,meta_lead_acne,,,,,0,0,,
+Đức Anh,Phạm,duc.anh.pham697@example.net,+84986905416,Hà Nội,2026-08-16,Customer,Connected,meta,meta_msg_sensitive,meta,Sensitive,Pigmentation,WhatsApp,1,435000,2026-08-16,Standard
+Thảo Nguyên,Trần,thao.nguyen.tran326@example.org,+84700435656,TP. Hồ Chí Minh,2026-08-16,Customer,Connected,google,google_search_brand,google,Combination,Acne,Website,3,2707000,2026-11-05,Gold
+Hà My,Trần,ha.my.tran78@example.net,+84849921280,TP. Hồ Chí Minh,2026-08-16,Lead,Unqualified,google,google_search_brand,,Oily,Pigmentation,,0,0,,
+Trúc Linh,Nguyễn,truc.linh.nguyen249@example.com,+84363847228,TP. Hồ Chí Minh,2026-08-16,Customer,Connected,google,google_search_brand,google,Combination,Pigmentation,Website,3,2005000,2026-10-26,Gold
+Như Quỳnh,Lê,nhu.quynh.le305@example.net,+84856596412,Hà Nội,2026-08-17,Customer,Connected,google,google_search_brand,google,Combination,Pigmentation,Website,2,1380000,2026-09-27,Silver
+Bích Ngọc,Trần,bich.ngoc.tran392@example.net,+84785883012,Vũng Tàu,2026-08-17,Lead,Unqualified,meta,meta_lead_acne,,Oily,Pigmentation,,0,0,,
+Tố Uyên,Nguyễn,to.uyen.nguyen286@example.org,+84858288162,Hải Phòng,2026-08-17,Lead,New,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Tuyết Nhi,Nguyễn,tuyet.nhi.nguyen914@example.org,+84936600520,Đà Nẵng,2026-08-17,Sales Qualified Lead,Connected,google,google_search_generic,,Oily,Acne,,0,0,,
+Nhã Phương,Lê,nha.phuong.le464@example.org,+84768562127,TP. Hồ Chí Minh,2026-08-17,Customer,Connected,meta,meta_lead_acne,google,Combination,Acne,Website,2,1690000,2026-10-03,Silver
+Quỳnh Anh,Lê,quynh.anh.le112@example.net,+84863445013,TP. Hồ Chí Minh,2026-08-17,Customer,Connected,meta,meta_lead_hydration,meta,Combination,Hydration,Shopee,1,950000,2026-08-17,Standard
+Yến Nhi,Lê,yen.nhi.le76@example.org,+84975518395,TP. Hồ Chí Minh,2026-08-18,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Ngọc Hân,Trần,ngoc.han.tran448@example.org,+84799376323,TP. Hồ Chí Minh,2026-08-18,Customer,Connected,meta,meta_lead_acne,meta,Sensitive,Acne,Shopee,1,498000,2026-08-25,Standard
+Tường Vi,Võ,tuong.vi.vo440@example.org,+84930394505,Nha Trang,2026-08-18,Lead,New,google,google_search_brand,,Combination,Hydration,,0,0,,
+Tuấn Kiệt,Đỗ,tuan.kiet.do31@example.net,+84848210543,Đà Lạt,2026-08-18,Customer,Connected,meta,meta_lead_hydration,organic,Sensitive,Hydration,WhatsApp,2,1320000,2026-10-02,Silver
+Tuyết Nhi,Nguyễn,tuyet.nhi.nguyen953@example.org,+84812814222,Vũng Tàu,2026-08-19,Customer,Connected,meta,meta_lead_acne,meta,Oily,Acne,Shopee,2,1600000,2026-09-14,Silver
+Quỳnh Anh,Phạm,quynh.anh.pham436@example.com,+84941303983,Hà Nội,2026-08-20,Marketing Qualified Lead,Bad Timing,meta,meta_lead_hydration,,Dry,Aging,,0,0,,
+Thu Trang,Trần,thu.trang.tran376@example.com,+84988956773,TP. Hồ Chí Minh,2026-08-20,Lead,Attempted to Contact,meta,meta_lead_acne,,Combination,Pigmentation,,0,0,,
+Yến Nhi,Lê,yen.nhi.le568@example.org,+84820269789,Nha Trang,2026-08-20,Customer,Connected,meta,meta_lead_hydration,google,Dry,Aging,Shopee,1,435000,2026-08-24,Standard
+Cẩm Tú,Đỗ,cam.tu.do94@example.net,+84769763843,TP. Hồ Chí Minh,2026-08-20,Customer,Connected,meta,meta_lead_acne,meta,Oily,Acne,Website,1,808000,2026-08-21,Standard
+Kim Ngân,Trần,kim.ngan.tran963@example.org,+84761190477,Cần Thơ,2026-08-20,Opportunity,Connected,meta,meta_lead_acne,,,,,0,0,,
+Khánh Vy,Nguyễn,khanh.vy.nguyen293@example.com,+84826052585,Hà Nội,2026-08-20,Customer,Connected,meta,meta_msg_sensitive,meta,Dry,Pigmentation,WhatsApp,1,750000,2026-08-20,Standard
+Mai Anh,Nguyễn,mai.anh.nguyen388@example.org,+84341397545,TP. Hồ Chí Minh,2026-08-20,Lead,Attempted to Contact,meta,meta_msg_sensitive,,Sensitive,Hydration,,0,0,,
+Ngọc Anh,Nguyễn,ngoc.anh.nguyen974@example.org,+84339173752,Đà Nẵng,2026-08-20,Customer,Connected,google,google_search_generic,google,Combination,Aging,Website,2,1300000,2026-09-16,Silver
+Bích Ngọc,Võ,bich.ngoc.vo251@example.org,+84785138486,Hà Nội,2026-08-21,Customer,Connected,meta,meta_lead_hydration,meta,Dry,Aging,Website,1,900000,2026-08-25,Standard
+Hà My,Nguyễn,ha.my.nguyen18@example.org,+84384977596,Hà Nội,2026-08-21,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_hydration,,Dry,Acne,,0,0,,
+Thùy Dương,Nguyễn,thuy.duong.nguyen516@example.com,+84772047056,Hà Nội,2026-08-21,Lead,New,meta,meta_lead_hydration,,Oily,Hydration,,0,0,,
+Hồng Nhung,Trương,hong.nhung.truong785@example.org,+84985612222,TP. Hồ Chí Minh,2026-08-21,Sales Qualified Lead,Connected,meta,meta_lead_acne,,,,,0,0,,
+Minh Thư,Huỳnh,minh.thu.huynh769@example.com,+84865211711,Hà Nội,2026-08-21,Lead,New,google,google_search_generic,,Dry,Pigmentation,,0,0,,
+Ngọc Hân,Ngô,ngoc.han.ngo987@example.org,+84769105048,Hà Nội,2026-08-22,Lead,Attempted to Contact,meta,meta_lead_acne,,,,,0,0,,
+Thu Trang,Lê,thu.trang.le155@example.com,+84830680434,Nha Trang,2026-08-22,Customer,Connected,google,google_search_brand,google,Oily,Hydration,Website,2,1480000,2026-10-05,Silver
+Tường Vi,Nguyễn,tuong.vi.nguyen646@example.com,+84377336662,Hà Nội,2026-08-22,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_hydration,,Dry,Aging,,0,0,,
+Tường Vi,Đinh,tuong.vi.dinh584@example.net,+84850310126,Hà Nội,2026-08-22,Sales Qualified Lead,Connected,meta,meta_lead_acne,,,,,0,0,,
+Quỳnh Anh,Hoàng,quynh.anh.hoang335@example.com,+84382873540,TP. Hồ Chí Minh,2026-08-22,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Trúc Linh,Đỗ,truc.linh.do110@example.com,+84960926231,Hải Phòng,2026-08-22,Customer,Connected,meta,meta_lead_hydration,meta,Combination,Hydration,Shopee,1,525000,2026-08-26,Standard
+Diệu Linh,Bùi,dieu.linh.bui966@example.net,+84340715259,TP. Hồ Chí Minh,2026-08-22,Lead,Attempted to Contact,meta,meta_lead_acne,,Sensitive,Acne,,0,0,,
+Diễm My,Nguyễn,diem.my.nguyen429@example.net,+84779608137,TP. Hồ Chí Minh,2026-08-22,Lead,Attempted to Contact,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Trúc Linh,Nguyễn,truc.linh.nguyen114@example.org,+84366464909,TP. Hồ Chí Minh,2026-08-22,Lead,Attempted to Contact,meta,meta_msg_sensitive,,Sensitive,Hydration,,0,0,,
+Thu Trang,Lý,thu.trang.ly508@example.net,+84332984601,TP. Hồ Chí Minh,2026-08-22,Marketing Qualified Lead,Bad Timing,meta,meta_lead_hydration,,Combination,Hydration,,0,0,,
+Mai Anh,Nguyễn,mai.anh.nguyen587@example.org,+84365107832,TP. Hồ Chí Minh,2026-08-22,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_hydration,,,,,0,0,,
+Minh Châu,Lê,minh.chau.le934@example.com,+84397315014,Đà Nẵng,2026-08-22,Marketing Qualified Lead,Bad Timing,meta,meta_lead_hydration,,Dry,Aging,,0,0,,
+Minh Châu,Phan,minh.chau.phan537@example.net,+84349749753,Hà Nội,2026-08-22,Customer,Connected,meta,meta_lead_acne,meta,Oily,Pigmentation,Website,3,1465000,2026-11-08,Gold
+Kim Ngân,Lê,kim.ngan.le35@example.com,+84886506738,TP. Hồ Chí Minh,2026-08-23,Opportunity,Attempted to Contact,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Diệu Linh,Trần,dieu.linh.tran443@example.com,+84860631165,Đà Nẵng,2026-08-23,Customer,Connected,meta,meta_lead_hydration,meta,Sensitive,Aging,Website,2,1047000,2026-10-01,Silver
+Thu Trang,Lê,thu.trang.le117@example.com,+84980797072,Vũng Tàu,2026-08-23,Customer,Connected,meta,meta_lead_acne,meta,Oily,Hydration,Shopee,2,1260000,2026-10-06,Silver
+Như Quỳnh,Lê,nhu.quynh.le971@example.org,+84372082771,TP. Hồ Chí Minh,2026-08-23,Customer,Connected,meta,meta_msg_sensitive,meta,Sensitive,Hydration,WhatsApp,1,1395000,2026-08-23,Silver
+Bích Ngọc,Nguyễn,bich.ngoc.nguyen773@example.com,+84392238690,Vũng Tàu,2026-08-23,Customer,Connected,meta,meta_lead_hydration,meta,Sensitive,Hydration,Website,2,1330000,2026-09-30,Silver
+Thành Đạt,Đỗ,thanh.dat.do757@example.net,+84947158209,Hải Phòng,2026-08-24,Lead,New,meta,meta_lead_acne,,,,,0,0,,
+Ngọc Anh,Phạm,ngoc.anh.pham439@example.org,+84768495466,Đà Lạt,2026-08-24,Lead,Attempted to Contact,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Ánh Dương,Lê,anh.duong.le888@example.net,+84882766591,Biên Hòa,2026-08-24,Customer,Connected,meta,meta_lead_hydration,meta,Combination,Aging,Website,2,1575000,2026-09-27,Silver
+Tố Uyên,Trần,to.uyen.tran207@example.net,+84972794882,Biên Hòa,2026-08-24,Opportunity,New,meta,meta_lead_acne,,,,,0,0,,
+Kiều Oanh,Trần,kieu.oanh.tran305@example.net,+84353038615,Hà Nội,2026-08-24,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,,,,0,0,,
+Thùy Dương,Lê,thuy.duong.le663@example.net,+84888365949,TP. Hồ Chí Minh,2026-08-25,Opportunity,Connected,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Thùy Linh,Nguyễn,thuy.linh.nguyen67@example.net,+84861624996,TP. Hồ Chí Minh,2026-08-25,Lead,Attempted to Contact,meta,meta_msg_sensitive,,Dry,Hydration,,0,0,,
+Bích Ngọc,Lê,bich.ngoc.le111@example.com,+84777658789,Đà Nẵng,2026-08-25,Customer,Connected,meta,meta_lead_hydration,meta,Sensitive,Hydration,Website,1,480000,2026-08-28,Standard
+Ngọc Anh,Nguyễn,ngoc.anh.nguyen167@example.org,+84383085425,TP. Hồ Chí Minh,2026-08-25,Customer,Connected,google,google_search_brand,google,Sensitive,Acne,Website,1,800000,2026-08-27,Standard
+Hoàng Nam,Lê,hoang.nam.le686@example.org,+84799187439,Cần Thơ,2026-08-25,Marketing Qualified Lead,Bad Timing,meta,meta_msg_sensitive,,,,,0,0,,
+Gia Hân,Trần,gia.han.tran988@example.net,+84826575556,TP. Hồ Chí Minh,2026-08-25,Opportunity,Attempted to Contact,meta,meta_lead_hydration,,,,,0,0,,
+Thùy Linh,Nguyễn,thuy.linh.nguyen599@example.org,+84702867219,TP. Hồ Chí Minh,2026-08-26,Sales Qualified Lead,Connected,meta,meta_lead_acne,,,,,0,0,,
+Tuyết Nhi,Phan,tuyet.nhi.phan611@example.com,+84863926942,Đà Nẵng,2026-08-26,Lead,New,meta,meta_lead_acne,,,,,0,0,,
+Đức Anh,Lê,duc.anh.le207@example.com,+84917131970,TP. Hồ Chí Minh,2026-08-26,Customer,Connected,meta,meta_lead_acne,meta,Sensitive,Acne,Shopee,1,480000,2026-08-28,Standard
+Thu Trang,Trần,thu.trang.tran200@example.org,+84365665609,TP. Hồ Chí Minh,2026-08-27,Customer,Connected,meta,meta_lead_acne,meta,Oily,Acne,Website,1,285000,2026-08-27,Standard
+Thu Hà,Nguyễn,thu.ha.nguyen760@example.com,+84342217528,TP. Hồ Chí Minh,2026-08-27,Lead,Attempted to Contact,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Kiều Oanh,Phan,kieu.oanh.phan764@example.com,+84775632086,TP. Hồ Chí Minh,2026-08-27,Opportunity,Attempted to Contact,meta,meta_lead_acne,,,,,0,0,,
+Anh Tuấn,Nguyễn,anh.tuan.nguyen25@example.net,+84845938520,Vũng Tàu,2026-08-27,Lead,Unqualified,meta,meta_lead_acne,,,,,0,0,,
+Tố Uyên,Đặng,to.uyen.dang313@example.com,,TP. Hồ Chí Minh,2026-08-27,Subscriber,New,meta,meta_lead_acne,,,,,0,0,,
+Kiều Oanh,Nguyễn,kieu.oanh.nguyen35@example.com,+84861961506,Vũng Tàu,2026-08-27,Lead,New,google,google_search_generic,,Sensitive,Hydration,,0,0,,
+Phương Linh,Trần,phuong.linh.tran158@example.net,+84948501865,Đà Nẵng,2026-08-27,Customer,Connected,meta,meta_msg_sensitive,google,Sensitive,Acne,WhatsApp,3,1800000,2026-11-01,Gold
+Bảo Ngọc,Hoàng,bao.ngoc.hoang215@example.org,+84859968562,TP. Hồ Chí Minh,2026-08-28,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_acne,,,,,0,0,,
+Mỹ Linh,Lê,my.linh.le949@example.net,+84941227525,TP. Hồ Chí Minh,2026-08-28,Customer,Connected,meta,meta_msg_sensitive,meta,Dry,Hydration,WhatsApp,1,480000,2026-08-28,Standard
+Huyền Trang,Phạm,huyen.trang.pham50@example.com,+84949044132,Vũng Tàu,2026-08-28,Marketing Qualified Lead,Attempted to Contact,google,google_search_generic,,Oily,Aging,,0,0,,
+Cẩm Tú,Vũ,cam.tu.vu500@example.com,+84811462577,Hải Phòng,2026-08-28,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_hydration,,Combination,Hydration,,0,0,,
+Thùy Linh,Đinh,thuy.linh.dinh409@example.net,,Hà Nội,2026-08-28,Subscriber,New,google,google_search_generic,,,,,0,0,,
+Hồng Nhung,Trần,hong.nhung.tran231@example.com,+84968476084,Vũng Tàu,2026-08-28,Customer,Connected,google,google_search_generic,google,Combination,Hydration,Website,3,2005000,2026-10-31,Gold
+Thu Trang,Trần,thu.trang.tran865@example.com,+84373829913,Đà Nẵng,2026-08-28,Marketing Qualified Lead,Bad Timing,google,google_search_generic,,Dry,Hydration,,0,0,,
+Quỳnh Anh,Nguyễn,quynh.anh.nguyen537@example.org,+84780931538,Cần Thơ,2026-08-28,Sales Qualified Lead,Connected,meta,meta_lead_acne,,,,,0,0,,
+Đức Anh,Nguyễn,duc.anh.nguyen17@example.org,+84901134819,TP. Hồ Chí Minh,2026-08-28,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Nhã Phương,Ngô,nha.phuong.ngo217@example.org,+84962990707,TP. Hồ Chí Minh,2026-08-29,Customer,Connected,google,google_search_brand,organic,Combination,Acne,WhatsApp,2,985000,2026-10-07,Silver
+Ngọc Anh,Huỳnh,ngoc.anh.huynh922@example.org,+84333290693,TP. Hồ Chí Minh,2026-08-29,Lead,Attempted to Contact,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Mỹ Linh,Phạm,my.linh.pham18@example.com,+84381258686,Hà Nội,2026-08-29,Customer,Connected,google,google_search_brand,google,Sensitive,Hydration,Shopee,2,1030000,2026-09-24,Silver
+Hoài Thương,Lê,hoai.thuong.le816@example.org,+84387516290,Đà Nẵng,2026-08-29,Sales Qualified Lead,Connected,meta,meta_lead_acne,,,,,0,0,,
+Trúc Linh,Phan,truc.linh.phan803@example.org,+84784705550,TP. Hồ Chí Minh,2026-08-29,Sales Qualified Lead,Connected,google,google_search_generic,,Oily,Hydration,,0,0,,
+Bích Ngọc,Phạm,bich.ngoc.pham569@example.org,+84937556192,Vũng Tàu,2026-08-30,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,,,,0,0,,
+Huyền Trang,Trần,huyen.trang.tran945@example.com,+84960952569,TP. Hồ Chí Minh,2026-08-30,Sales Qualified Lead,Connected,google,google_search_generic,,Dry,Pigmentation,,0,0,,
+Gia Hân,Lê,gia.han.le881@example.net,+84324202011,TP. Hồ Chí Minh,2026-08-30,Customer,Connected,meta,meta_msg_sensitive,google,Sensitive,Acne,Website,3,2485000,2026-11-07,Gold
+Minh Thư,Trần,minh.thu.tran18@example.org,+84981873570,Hà Nội,2026-08-30,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Combination,Hydration,,0,0,,
+Tuyết Nhi,Lê,tuyet.nhi.le628@example.com,+84888730606,TP. Hồ Chí Minh,2026-08-30,Customer,Connected,google,google_search_generic,google,Dry,Pigmentation,Shopee,1,480000,2026-09-01,Standard
+Tường Vi,Nguyễn,tuong.vi.nguyen797@example.org,+84852019525,TP. Hồ Chí Minh,2026-08-30,Lead,New,google,google_search_generic,,Combination,Aging,,0,0,,
+Thanh Trúc,Trần,thanh.truc.tran794@example.org,+84395829131,Biên Hòa,2026-08-30,Sales Qualified Lead,Connected,meta,meta_lead_acne,,,,,0,0,,
+Thùy Dương,Trần,thuy.duong.tran552@example.net,+84338447962,Hà Nội,2026-08-31,Customer,Connected,meta,meta_msg_sensitive,google,Sensitive,Hydration,WhatsApp,2,1150000,2026-10-13,Silver
+Ngọc Hân,Phạm,ngoc.han.pham80@example.net,+84378635924,TP. Hồ Chí Minh,2026-08-31,Customer,Connected,meta,meta_msg_sensitive,meta,Sensitive,Hydration,Shopee,3,2065000,2026-11-07,Gold
+Quỳnh Anh,Trần,quynh.anh.tran436@example.org,+84350781468,Hà Nội,2026-08-31,Lead,Attempted to Contact,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Như Quỳnh,Nguyễn,nhu.quynh.nguyen351@example.net,+84913238657,TP. Hồ Chí Minh,2026-09-01,Sales Qualified Lead,Connected,meta,meta_msg_sensitive,,Sensitive,Pigmentation,,0,0,,
+Huyền Trang,Lê,huyen.trang.le25@example.com,+84358883228,Hà Nội,2026-09-01,Customer,Connected,meta,meta_lead_hydration,organic,Dry,Aging,Website,1,330000,2026-09-03,Standard
+Diệu Linh,Nguyễn,dieu.linh.nguyen188@example.org,+84964233009,Đà Nẵng,2026-09-01,Lead,Unqualified,meta,meta_msg_sensitive,,,,,0,0,,
+Cẩm Tú,Nguyễn,cam.tu.nguyen641@example.com,+84837866616,TP. Hồ Chí Minh,2026-09-01,Customer,Connected,meta,meta_msg_sensitive,meta,Sensitive,Acne,WhatsApp,3,1830000,2026-11-08,Gold
+Tuyết Nhi,Lê,tuyet.nhi.le993@example.net,+84776141167,Hà Nội,2026-09-01,Marketing Qualified Lead,Bad Timing,meta,meta_lead_acne,,Oily,Pigmentation,,0,0,,
+Tố Uyên,Hoàng,to.uyen.hoang940@example.net,+84776935255,Cần Thơ,2026-09-01,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Thùy Linh,Đỗ,thuy.linh.do509@example.net,+84791527426,TP. Hồ Chí Minh,2026-09-01,Lead,Unqualified,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Tuyết Nhi,Dương,tuyet.nhi.duong620@example.org,+84358986508,Đà Nẵng,2026-09-01,Sales Qualified Lead,Connected,meta,meta_msg_sensitive,,,,,0,0,,
+Diễm My,Nguyễn,diem.my.nguyen760@example.com,,Hà Nội,2026-09-01,Subscriber,New,meta,meta_lead_hydration,,Sensitive,Aging,,0,0,,
+Quốc Bảo,Đỗ,quoc.bao.do645@example.org,+84981746179,Bình Dương,2026-09-01,Customer,Connected,meta,meta_msg_sensitive,meta,Sensitive,Hydration,WhatsApp,2,645000,2026-10-12,Silver
+Gia Huy,Nguyễn,gia.huy.nguyen871@example.com,,Đà Nẵng,2026-09-01,Subscriber,New,google,google_search_generic,,,,,0,0,,
+Minh Châu,Nguyễn,minh.chau.nguyen93@example.org,+84344980169,TP. Hồ Chí Minh,2026-09-01,Sales Qualified Lead,Connected,google,google_search_generic,,Sensitive,Pigmentation,,0,0,,
+Tuấn Kiệt,Phan,tuan.kiet.phan293@example.net,+84708429512,Hà Nội,2026-09-02,Lead,Unqualified,google,google_search_generic,,Dry,Acne,,0,0,,
+Minh Châu,Đỗ,minh.chau.do140@example.org,+84963853790,Đà Nẵng,2026-09-02,Lead,Unqualified,meta,meta_lead_acne,,,,,0,0,,
+Tường Vi,Nguyễn,tuong.vi.nguyen514@example.net,+84965403235,Cần Thơ,2026-09-02,Customer,Connected,meta,meta_lead_hydration,meta,Oily,Hydration,Website,2,1225000,2026-09-27,Silver
+Thu Trang,Phạm,thu.trang.pham205@example.com,+84795293354,Cần Thơ,2026-09-02,Customer,Connected,meta,meta_lead_hydration,meta,Dry,Hydration,Website,2,915000,2026-10-13,Silver
+Nhã Phương,Đinh,nha.phuong.dinh739@example.com,+84881059062,TP. Hồ Chí Minh,2026-09-02,Customer,Connected,meta,meta_lead_hydration,meta,Combination,Hydration,Shopee,2,1008000,2026-10-05,Silver
+Khánh Vy,Lê,khanh.vy.le367@example.com,+84762591438,TP. Hồ Chí Minh,2026-09-02,Marketing Qualified Lead,Bad Timing,google,google_search_generic,,Combination,Acne,,0,0,,
+Thùy Dương,Trần,thuy.duong.tran183@example.net,+84968819387,TP. Hồ Chí Minh,2026-09-03,Lead,New,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Yến Nhi,Huỳnh,yen.nhi.huynh94@example.com,+84897789188,Bình Dương,2026-09-03,Customer,Connected,google,google_search_brand,google,Dry,Aging,Website,2,1430000,2026-10-11,Silver
+Tường Vi,Hoàng,tuong.vi.hoang685@example.net,+84860139505,Hà Nội,2026-09-03,Customer,Connected,google,google_search_generic,google,Combination,Aging,WhatsApp,2,1380000,2026-10-02,Silver
+Thu Trang,Nguyễn,thu.trang.nguyen404@example.net,+84811308088,TP. Hồ Chí Minh,2026-09-03,Customer,Connected,meta,meta_lead_acne,meta,Combination,Acne,Website,3,1955000,2026-10-30,Gold
+Hoàng Nam,Hoàng,hoang.nam.hoang716@example.org,+84327561337,Hà Nội,2026-09-03,Sales Qualified Lead,Connected,meta,meta_lead_acne,,,,,0,0,,
+Nhã Phương,Hoàng,nha.phuong.hoang240@example.org,,TP. Hồ Chí Minh,2026-09-03,Subscriber,New,google,google_search_generic,,,,,0,0,,
+Kim Ngân,Nguyễn,kim.ngan.nguyen952@example.com,+84849755805,TP. Hồ Chí Minh,2026-09-04,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_hydration,,,,,0,0,,
+Minh Châu,Trần,minh.chau.tran498@example.com,+84783303630,TP. Hồ Chí Minh,2026-09-04,Marketing Qualified Lead,Bad Timing,google,google_search_generic,,Combination,Acne,,0,0,,
+Thanh Thảo,Dương,thanh.thao.duong934@example.com,+84811821060,Cần Thơ,2026-09-04,Opportunity,Connected,meta,meta_lead_acne,,,,,0,0,,
+Đức Anh,Nguyễn,duc.anh.nguyen919@example.com,+84989270322,Đà Nẵng,2026-09-04,Customer,Connected,meta,meta_msg_sensitive,meta,Sensitive,Hydration,Website,2,1035000,2026-10-07,Silver
+Bảo Trân,Hoàng,bao.tran.hoang336@example.org,+84795408486,TP. Hồ Chí Minh,2026-09-04,Sales Qualified Lead,Connected,meta,meta_msg_sensitive,,Sensitive,Hydration,,0,0,,
+Bảo Ngọc,Lê,bao.ngoc.le339@example.com,+84850785659,TP. Hồ Chí Minh,2026-09-04,Lead,Unqualified,meta,meta_lead_acne,,,,,0,0,,
+Ánh Dương,Trần,anh.duong.tran682@example.net,+84842345503,TP. Hồ Chí Minh,2026-09-05,Customer,Connected,meta,meta_msg_sensitive,meta,Sensitive,Hydration,WhatsApp,3,1688000,2026-11-08,Gold
+Kiều Oanh,Trần,kieu.oanh.tran343@example.com,+84914731196,Hà Nội,2026-09-05,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Thùy Linh,Nguyễn,thuy.linh.nguyen980@example.org,+84336958711,Đà Lạt,2026-09-06,Lead,Attempted to Contact,google,google_search_generic,,Dry,Acne,,0,0,,
+Bảo Ngọc,Phạm,bao.ngoc.pham769@example.com,+84320937514,TP. Hồ Chí Minh,2026-09-06,Lead,New,meta,meta_lead_acne,,Sensitive,Hydration,,0,0,,
+Tuyết Nhi,Ngô,tuyet.nhi.ngo625@example.net,+84770063779,TP. Hồ Chí Minh,2026-09-06,Marketing Qualified Lead,Bad Timing,meta,meta_lead_hydration,,,,,0,0,,
+Thành Đạt,Nguyễn,thanh.dat.nguyen447@example.com,+84792238288,Hải Phòng,2026-09-07,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Hoài Thương,Nguyễn,hoai.thuong.nguyen884@example.org,+84321587797,Hà Nội,2026-09-07,Lead,Unqualified,meta,meta_lead_hydration,,Dry,Acne,,0,0,,
+Thanh Thảo,Dương,thanh.thao.duong214@example.net,+84910948196,Đà Lạt,2026-09-07,Customer,Connected,google,google_search_brand,google,Combination,Aging,Website,2,1220000,2026-10-20,Silver
+Anh Tuấn,Huỳnh,anh.tuan.huynh867@example.org,+84852913534,Hà Nội,2026-09-07,Customer,Connected,meta,meta_lead_hydration,meta,Sensitive,Hydration,WhatsApp,1,550000,2026-09-08,Standard
+Thu Hà,Lê,thu.ha.le791@example.org,+84798903479,Hà Nội,2026-09-07,Customer,Connected,meta,meta_lead_hydration,google,Sensitive,Hydration,Shopee,2,1527000,2026-10-06,Silver
+Hải Yến,Vũ,hai.yen.vu7@example.net,+84973842761,Hà Nội,2026-09-07,Lead,Unqualified,meta,meta_lead_acne,,,,,0,0,,
+Thùy Dương,Huỳnh,thuy.duong.huynh841@example.org,+84775463664,TP. Hồ Chí Minh,2026-09-07,Opportunity,Attempted to Contact,google,google_search_generic,,Oily,Aging,,0,0,,
+Phương Thảo,Trần,phuong.thao.tran70@example.com,+84394206734,Đà Nẵng,2026-09-07,Customer,Connected,meta,meta_msg_sensitive,meta,Combination,Acne,WhatsApp,2,1030000,2026-10-22,Silver
+Huyền Trang,Lê,huyen.trang.le609@example.net,+84355794644,TP. Hồ Chí Minh,2026-09-07,Sales Qualified Lead,Connected,google,google_search_generic,,Sensitive,Acne,,0,0,,
+Tố Uyên,Trần,to.uyen.tran64@example.com,+84703435266,TP. Hồ Chí Minh,2026-09-08,Sales Qualified Lead,Connected,meta,meta_msg_sensitive,,Sensitive,Hydration,,0,0,,
+Hà My,Đỗ,ha.my.do35@example.net,+84969125499,TP. Hồ Chí Minh,2026-09-08,Customer,Connected,meta,meta_msg_sensitive,meta,Sensitive,Hydration,Website,2,880000,2026-10-04,Silver
+Ngọc Hân,Nguyễn,ngoc.han.nguyen354@example.net,+84893198789,Hà Nội,2026-09-08,Customer,Connected,meta,meta_msg_sensitive,google,Sensitive,Hydration,WhatsApp,1,945000,2026-09-08,Standard
+Bích Ngọc,Phan,bich.ngoc.phan590@example.com,+84358382820,Đà Lạt,2026-09-08,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_acne,,Sensitive,Acne,,0,0,,
+Khánh Vy,Trương,khanh.vy.truong234@example.org,+84338488557,TP. Hồ Chí Minh,2026-09-08,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Hải Yến,Nguyễn,hai.yen.nguyen300@example.org,+84944775026,Hà Nội,2026-09-08,Opportunity,Connected,meta,meta_lead_acne,,,,,0,0,,
+Như Quỳnh,Trần,nhu.quynh.tran80@example.net,+84985933675,Vũng Tàu,2026-09-09,Customer,Connected,meta,meta_lead_acne,meta,Combination,Acne,WhatsApp,2,830000,2026-10-22,Silver
+Trúc Linh,Trần,truc.linh.tran769@example.com,+84814156939,Hà Nội,2026-09-09,Marketing Qualified Lead,Bad Timing,meta,meta_msg_sensitive,,Sensitive,Hydration,,0,0,,
+Thu Trang,Nguyễn,thu.trang.nguyen894@example.net,+84818176507,TP. Hồ Chí Minh,2026-09-10,Customer,Connected,google,google_search_brand,organic,Combination,Acne,Shopee,2,980000,2026-10-08,Silver
+Mỹ Linh,Nguyễn,my.linh.nguyen293@example.org,+84770243579,Bình Dương,2026-09-10,Lead,New,meta,meta_lead_hydration,,,,,0,0,,
+Hải Yến,Nguyễn,hai.yen.nguyen812@example.com,+84983761616,TP. Hồ Chí Minh,2026-09-10,Lead,Attempted to Contact,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Thu Trang,Trần,thu.trang.tran934@example.com,+84900990987,Biên Hòa,2026-09-10,Customer,Connected,google,google_search_brand,google,Combination,Hydration,Shopee,3,2535000,2026-11-03,Gold
+Phương Linh,Nguyễn,phuong.linh.nguyen480@example.com,+84833996447,TP. Hồ Chí Minh,2026-09-11,Lead,Unqualified,meta,meta_lead_acne,,Oily,Hydration,,0,0,,
+Minh Thư,Lê,minh.thu.le347@example.net,+84376853998,TP. Hồ Chí Minh,2026-09-11,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_hydration,,Sensitive,Hydration,,0,0,,
+Phương Linh,Phạm,phuong.linh.pham810@example.net,+84856870684,Hà Nội,2026-09-11,Lead,New,meta,meta_lead_hydration,,Oily,Hydration,,0,0,,
+Thu Hà,Phạm,thu.ha.pham992@example.org,+84394168410,Vũng Tàu,2026-09-11,Sales Qualified Lead,Connected,google,google_search_generic,,,,,0,0,,
+Huyền Trang,Nguyễn,huyen.trang.nguyen179@example.com,+84972094012,Bình Dương,2026-09-11,Marketing Qualified Lead,Bad Timing,google,google_search_generic,,,,,0,0,,
+Bích Ngọc,Nguyễn,bich.ngoc.nguyen184@example.net,+84826184792,TP. Hồ Chí Minh,2026-09-11,Customer,Connected,meta,meta_lead_hydration,meta,Dry,Hydration,WhatsApp,1,300000,2026-09-15,Standard
+Ngọc Anh,Nguyễn,ngoc.anh.nguyen818@example.net,+84766831169,Bình Dương,2026-09-11,Lead,New,meta,meta_msg_sensitive,,,,,0,0,,
+Minh Thư,Nguyễn,minh.thu.nguyen833@example.org,+84937973941,Đà Lạt,2026-09-12,Lead,Unqualified,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Thùy Linh,Đỗ,thuy.linh.do124@example.org,+84855686361,TP. Hồ Chí Minh,2026-09-12,Marketing Qualified Lead,Attempted to Contact,google,google_search_generic,,Oily,Aging,,0,0,,
+Bảo Ngọc,Trần,bao.ngoc.tran913@example.net,+84971899383,TP. Hồ Chí Minh,2026-09-12,Lead,Attempted to Contact,meta,meta_lead_acne,,,,,0,0,,
+Ánh Dương,Phạm,anh.duong.pham160@example.com,+84339260217,TP. Hồ Chí Minh,2026-09-12,Customer,Connected,meta,meta_lead_acne,meta,Oily,Acne,Website,1,285000,2026-09-15,Standard
+Quỳnh Anh,Lê,quynh.anh.le838@example.org,,Vũng Tàu,2026-09-12,Subscriber,New,google,google_search_generic,,Combination,Hydration,,0,0,,
+Hà My,Nguyễn,ha.my.nguyen780@example.org,+84939272254,Hải Phòng,2026-09-12,Marketing Qualified Lead,Bad Timing,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Phương Linh,Trương,phuong.linh.truong878@example.com,+84984992725,Đà Nẵng,2026-09-13,Opportunity,Connected,meta,meta_lead_acne,,,,,0,0,,
+Bảo Trân,Trần,bao.tran.tran616@example.net,+84350047200,Bình Dương,2026-09-13,Lead,Attempted to Contact,meta,meta_msg_sensitive,,Sensitive,Pigmentation,,0,0,,
+Thanh Thảo,Phạm,thanh.thao.pham535@example.org,+84894464761,TP. Hồ Chí Minh,2026-09-13,Customer,Connected,google,google_search_generic,google,Oily,Pigmentation,Website,1,500000,2026-09-15,Standard
+Quỳnh Anh,Lê,quynh.anh.le508@example.org,+84369976116,TP. Hồ Chí Minh,2026-09-13,Customer,Connected,google,google_search_generic,google,Combination,Acne,Website,1,435000,2026-09-14,Standard
+Ánh Dương,Bùi,anh.duong.bui846@example.com,+84911752148,Cần Thơ,2026-09-13,Marketing Qualified Lead,Attempted to Contact,meta,meta_msg_sensitive,,Sensitive,Hydration,,0,0,,
+Khánh Vy,Nguyễn,khanh.vy.nguyen49@example.net,+84940006518,Đà Nẵng,2026-09-13,Customer,Connected,meta,meta_lead_hydration,meta,Sensitive,Hydration,WhatsApp,1,435000,2026-09-14,Standard
+Hà My,Trần,ha.my.tran716@example.com,+84350566683,TP. Hồ Chí Minh,2026-09-14,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,Dry,Acne,,0,0,,
+Lan Anh,Bùi,lan.anh.bui984@example.com,+84332638929,TP. Hồ Chí Minh,2026-09-14,Marketing Qualified Lead,Bad Timing,meta,meta_lead_hydration,,Oily,Hydration,,0,0,,
+Lan Anh,Nguyễn,lan.anh.nguyen908@example.com,+84337637446,Vũng Tàu,2026-09-14,Customer,Connected,meta,meta_lead_acne,meta,Combination,Hydration,Website,1,498000,2026-09-15,Standard
+Ngọc Anh,Lê,ngoc.anh.le657@example.org,+84936958903,TP. Hồ Chí Minh,2026-09-14,Opportunity,New,google,google_search_generic,,,,,0,0,,
+Phương Linh,Lê,phuong.linh.le494@example.org,+84916580876,Hà Nội,2026-09-14,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Kim Ngân,Nguyễn,kim.ngan.nguyen182@example.net,+84795148330,Hà Nội,2026-09-14,Customer,Connected,meta,meta_lead_acne,meta,Sensitive,Pigmentation,Shopee,2,1003000,2026-10-15,Silver
+Anh Tuấn,Phạm,anh.tuan.pham992@example.com,+84775843609,TP. Hồ Chí Minh,2026-09-14,Sales Qualified Lead,Connected,google,google_search_generic,,,,,0,0,,
+Quốc Bảo,Nguyễn,quoc.bao.nguyen435@example.org,+84366850203,TP. Hồ Chí Minh,2026-09-14,Lead,Attempted to Contact,meta,meta_lead_hydration,,Combination,Hydration,,0,0,,
+Phương Linh,Phạm,phuong.linh.pham302@example.com,+84334364143,TP. Hồ Chí Minh,2026-09-14,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Bảo Ngọc,Trần,bao.ngoc.tran582@example.com,+84901759737,Hà Nội,2026-09-14,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Phương Thảo,Võ,phuong.thao.vo394@example.com,+84892935194,TP. Hồ Chí Minh,2026-09-15,Lead,New,google,google_search_generic,,,,,0,0,,
+Minh Khang,Trương,minh.khang.truong807@example.com,+84931878545,TP. Hồ Chí Minh,2026-09-15,Customer,Connected,google,google_search_brand,google,Sensitive,Hydration,Shopee,2,1155000,2026-10-11,Silver
+Thu Trang,Đinh,thu.trang.dinh887@example.net,+84782223759,TP. Hồ Chí Minh,2026-09-15,Customer,Connected,meta,meta_msg_sensitive,meta,Sensitive,Acne,Shopee,2,850000,2026-10-29,Silver
+Mai Anh,Đặng,mai.anh.dang992@example.com,+84703158991,TP. Hồ Chí Minh,2026-09-15,Customer,Connected,meta,meta_msg_sensitive,meta,Sensitive,Hydration,Website,2,1275000,2026-10-14,Silver
+Tường Vi,Trần,tuong.vi.tran16@example.com,+84978856995,Đà Nẵng,2026-09-15,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,Combination,Hydration,,0,0,,
+Thanh Thảo,Nguyễn,thanh.thao.nguyen951@example.net,+84885408464,TP. Hồ Chí Minh,2026-09-15,Sales Qualified Lead,Connected,google,google_search_generic,,Combination,Hydration,,0,0,,
+Bảo Trân,Huỳnh,bao.tran.huynh134@example.org,+84840895054,TP. Hồ Chí Minh,2026-09-15,Customer,Connected,google,google_search_brand,google,Oily,Acne,Website,2,935000,2026-10-19,Silver
+Kim Ngân,Trần,kim.ngan.tran679@example.com,+84973251189,TP. Hồ Chí Minh,2026-09-16,Customer,Connected,meta,meta_msg_sensitive,meta,Sensitive,Acne,WhatsApp,1,480000,2026-09-16,Standard
+Minh Thư,Nguyễn,minh.thu.nguyen669@example.net,+84354864076,Đà Lạt,2026-09-16,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Bích Ngọc,Đinh,bich.ngoc.dinh144@example.org,,TP. Hồ Chí Minh,2026-09-17,Subscriber,New,google,google_search_generic,,Oily,Pigmentation,,0,0,,
+Thảo Nguyên,Đinh,thao.nguyen.dinh116@example.com,,Nha Trang,2026-09-17,Subscriber,New,meta,meta_lead_hydration,,Combination,Hydration,,0,0,,
+Cẩm Tú,Phan,cam.tu.phan319@example.com,,Bình Dương,2026-09-17,Subscriber,New,meta,meta_lead_hydration,,Combination,Hydration,,0,0,,
+Quỳnh Anh,Lê,quynh.anh.le410@example.org,+84817462083,TP. Hồ Chí Minh,2026-09-17,Customer,Connected,meta,meta_msg_sensitive,meta,Sensitive,Hydration,Website,2,1708000,2026-10-30,Silver
+Tuấn Kiệt,Lê,tuan.kiet.le742@example.net,,TP. Hồ Chí Minh,2026-09-17,Subscriber,New,google,google_search_brand,,Dry,Acne,,0,0,,
+Bảo Ngọc,Nguyễn,bao.ngoc.nguyen76@example.org,+84321905079,TP. Hồ Chí Minh,2026-09-17,Customer,Connected,google,google_search_brand,google,Sensitive,Pigmentation,Website,2,1315000,2026-10-21,Silver
+Kiều Oanh,Nguyễn,kieu.oanh.nguyen251@example.net,+84790463871,Nha Trang,2026-09-17,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,,,,0,0,,
+Đức Anh,Lê,duc.anh.le155@example.org,+84357044800,TP. Hồ Chí Minh,2026-09-18,Lead,Attempted to Contact,google,google_search_generic,,Sensitive,Aging,,0,0,,
+Huyền Trang,Phan,huyen.trang.phan143@example.net,+84344905792,Hà Nội,2026-09-18,Lead,New,google,google_search_generic,,Dry,Acne,,0,0,,
+Cẩm Tú,Trương,cam.tu.truong840@example.com,+84863375211,Vũng Tàu,2026-09-18,Customer,Connected,meta,meta_lead_acne,meta,Combination,Acne,WhatsApp,2,1210000,2026-11-03,Silver
+Diễm My,Hoàng,diem.my.hoang451@example.com,+84760695860,TP. Hồ Chí Minh,2026-09-18,Opportunity,Connected,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Gia Huy,Đỗ,gia.huy.do549@example.net,+84868457636,Hà Nội,2026-09-19,Customer,Connected,meta,meta_msg_sensitive,meta,Dry,Acne,WhatsApp,1,945000,2026-09-20,Standard
+Yến Nhi,Nguyễn,yen.nhi.nguyen953@example.com,+84799420460,TP. Hồ Chí Minh,2026-09-19,Lead,New,google,google_search_generic,,,,,0,0,,
+Bảo Trân,Nguyễn,bao.tran.nguyen387@example.net,+84868475703,TP. Hồ Chí Minh,2026-09-19,Lead,New,meta,meta_lead_acne,,,,,0,0,,
+Kim Ngân,Phạm,kim.ngan.pham88@example.com,+84845602349,Hà Nội,2026-09-19,Lead,Attempted to Contact,google,google_search_generic,,,,,0,0,,
+Hoàng Nam,Nguyễn,hoang.nam.nguyen568@example.org,+84703992842,TP. Hồ Chí Minh,2026-09-19,Customer,Connected,meta,meta_lead_hydration,google,Sensitive,Hydration,Shopee,2,893000,2026-10-31,Silver
+Bảo Ngọc,Nguyễn,bao.ngoc.nguyen245@example.net,+84857279798,TP. Hồ Chí Minh,2026-09-20,Lead,Attempted to Contact,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Thùy Linh,Nguyễn,thuy.linh.nguyen827@example.com,,Hải Phòng,2026-09-20,Subscriber,New,meta,meta_lead_acne,,,,,0,0,,
+Huyền Trang,Lê,huyen.trang.le58@example.org,+84773286660,Hà Nội,2026-09-20,Customer,Connected,meta,meta_lead_hydration,organic,Combination,Aging,Website,1,525000,2026-09-20,Standard
+Thanh Trúc,Lê,thanh.truc.le255@example.net,+84338054175,TP. Hồ Chí Minh,2026-09-20,Lead,New,meta,meta_lead_hydration,,Sensitive,Hydration,,0,0,,
+Khánh Vy,Trần,khanh.vy.tran137@example.com,+84963104141,TP. Hồ Chí Minh,2026-09-20,Lead,Attempted to Contact,meta,meta_lead_hydration,,,,,0,0,,
+Phương Thảo,Phan,phuong.thao.phan796@example.net,,Bình Dương,2026-09-20,Subscriber,New,google,google_search_brand,,,,,0,0,,
+Thùy Linh,Trần,thuy.linh.tran762@example.net,+84770553355,Hà Nội,2026-09-21,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Tường Vi,Nguyễn,tuong.vi.nguyen603@example.net,+84790816696,Hà Nội,2026-09-21,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Oily,Hydration,,0,0,,
+Quỳnh Anh,Nguyễn,quynh.anh.nguyen234@example.org,+84940751660,TP. Hồ Chí Minh,2026-09-21,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_acne,,,,,0,0,,
+Minh Khang,Lê,minh.khang.le712@example.net,+84945943855,Hà Nội,2026-09-21,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_acne,,Sensitive,Acne,,0,0,,
+Minh Khang,Phạm,minh.khang.pham751@example.com,,Biên Hòa,2026-09-21,Subscriber,New,meta,meta_msg_sensitive,,Sensitive,Hydration,,0,0,,
+Đức Anh,Nguyễn,duc.anh.nguyen211@example.com,+84849798605,Cần Thơ,2026-09-21,Customer,Connected,google,google_search_generic,direct,Oily,Aging,Website,1,435000,2026-09-22,Standard
+Tố Uyên,Trần,to.uyen.tran178@example.com,+84857914462,TP. Hồ Chí Minh,2026-09-21,Customer,Connected,meta,meta_msg_sensitive,organic,Sensitive,Acne,Website,2,990000,2026-11-01,Silver
+Diễm My,Lê,diem.my.le653@example.net,+84782003750,TP. Hồ Chí Minh,2026-09-21,Customer,Connected,meta,meta_lead_hydration,meta,Combination,Hydration,WhatsApp,2,1485000,2026-11-05,Silver
+Thanh Thảo,Trương,thanh.thao.truong223@example.net,+84935548407,TP. Hồ Chí Minh,2026-09-22,Sales Qualified Lead,Connected,meta,meta_msg_sensitive,,Sensitive,Hydration,,0,0,,
+Như Quỳnh,Vũ,nhu.quynh.vu938@example.org,+84357763970,Hà Nội,2026-09-22,Customer,Connected,google,google_search_generic,google,Combination,Hydration,WhatsApp,2,1435000,2026-10-18,Silver
+Diễm My,Nguyễn,diem.my.nguyen725@example.net,+84359324742,Đà Nẵng,2026-09-22,Lead,Attempted to Contact,meta,meta_lead_hydration,,,,,0,0,,
+Kiều Oanh,Nguyễn,kieu.oanh.nguyen579@example.net,+84780961037,TP. Hồ Chí Minh,2026-09-22,Sales Qualified Lead,Connected,google,google_search_generic,,Combination,Aging,,0,0,,
+Phương Thảo,Trần,phuong.thao.tran735@example.org,+84777688038,Đà Nẵng,2026-09-22,Marketing Qualified Lead,Bad Timing,meta,meta_lead_acne,,Combination,Pigmentation,,0,0,,
+Mỹ Linh,Vũ,my.linh.vu428@example.net,+84858683535,TP. Hồ Chí Minh,2026-09-22,Lead,Attempted to Contact,google,google_search_brand,,,,,0,0,,
+Tố Uyên,Nguyễn,to.uyen.nguyen799@example.com,+84760977241,Hà Nội,2026-09-22,Marketing Qualified Lead,Bad Timing,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Ánh Dương,Trần,anh.duong.tran206@example.net,+84843833447,TP. Hồ Chí Minh,2026-09-22,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,,,,0,0,,
+Tố Uyên,Nguyễn,to.uyen.nguyen464@example.com,+84775576102,TP. Hồ Chí Minh,2026-09-22,Customer,Connected,meta,meta_lead_hydration,meta,Dry,Acne,Website,1,525000,2026-09-26,Standard
+Bảo Trân,Đỗ,bao.tran.do594@example.com,+84769150035,TP. Hồ Chí Minh,2026-09-23,Lead,Attempted to Contact,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Thùy Dương,Trương,thuy.duong.truong962@example.org,,Hà Nội,2026-09-23,Subscriber,New,meta,meta_msg_sensitive,,Dry,Acne,,0,0,,
+Nhã Phương,Nguyễn,nha.phuong.nguyen64@example.net,+84395611322,TP. Hồ Chí Minh,2026-09-23,Marketing Qualified Lead,Attempted to Contact,google,google_search_generic,,Oily,Acne,,0,0,,
+Minh Châu,Nguyễn,minh.chau.nguyen94@example.com,+84989194717,TP. Hồ Chí Minh,2026-09-23,Lead,Attempted to Contact,meta,meta_lead_hydration,,Combination,Hydration,,0,0,,
+Hà My,Lê,ha.my.le132@example.com,+84960463872,Nha Trang,2026-09-23,Lead,Unqualified,meta,meta_lead_hydration,,,,,0,0,,
+Mỹ Linh,Trần,my.linh.tran810@example.com,+84938990435,TP. Hồ Chí Minh,2026-09-24,Lead,Unqualified,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Thu Hà,Đỗ,thu.ha.do999@example.com,+84837808782,TP. Hồ Chí Minh,2026-09-24,Lead,Attempted to Contact,google,google_search_generic,,,,,0,0,,
+Ngọc Anh,Nguyễn,ngoc.anh.nguyen599@example.net,+84819897115,Đà Nẵng,2026-09-24,Customer,Connected,google,google_search_brand,google,Dry,Acne,Shopee,1,300000,2026-09-24,Standard
+Tố Uyên,Nguyễn,to.uyen.nguyen598@example.com,+84960275871,Hà Nội,2026-09-24,Sales Qualified Lead,Connected,google,google_search_brand,,Dry,Acne,,0,0,,
+Minh Thư,Nguyễn,minh.thu.nguyen519@example.org,+84320105352,Hà Nội,2026-09-24,Marketing Qualified Lead,Attempted to Contact,google,google_search_generic,,,,,0,0,,
+Lan Anh,Hoàng,lan.anh.hoang46@example.net,+84883666203,Hà Nội,2026-09-24,Lead,New,meta,meta_lead_acne,,,,,0,0,,
+Tuyết Nhi,Nguyễn,tuyet.nhi.nguyen678@example.org,+84320144524,Bình Dương,2026-09-25,Customer,Connected,meta,meta_lead_hydration,meta,Dry,Hydration,Shopee,1,480000,2026-09-27,Standard
+Thùy Linh,Lê,thuy.linh.le221@example.com,+84365993980,TP. Hồ Chí Minh,2026-09-25,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,Combination,Acne,,0,0,,
+Tuấn Kiệt,Phạm,tuan.kiet.pham477@example.com,+84819636648,TP. Hồ Chí Minh,2026-09-25,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,,,,0,0,,
+Thùy Linh,Đỗ,thuy.linh.do648@example.org,,TP. Hồ Chí Minh,2026-09-25,Subscriber,New,meta,meta_lead_hydration,,Combination,Hydration,,0,0,,
+Trúc Linh,Trương,truc.linh.truong749@example.org,+84817993005,TP. Hồ Chí Minh,2026-09-25,Marketing Qualified Lead,Bad Timing,meta,meta_msg_sensitive,,,,,0,0,,
+Ngọc Anh,Nguyễn,ngoc.anh.nguyen357@example.net,+84760422258,Biên Hòa,2026-09-25,Marketing Qualified Lead,Bad Timing,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Thùy Dương,Huỳnh,thuy.duong.huynh631@example.com,+84323688343,Hà Nội,2026-09-26,Lead,Unqualified,google,google_search_generic,,Oily,Pigmentation,,0,0,,
+Bảo Ngọc,Lê,bao.ngoc.le392@example.org,+84325243953,Biên Hòa,2026-09-26,Customer,Connected,meta,meta_lead_acne,organic,Oily,Acne,Website,1,750000,2026-09-26,Standard
+Hoài Thương,Đặng,hoai.thuong.dang758@example.net,+84848134944,TP. Hồ Chí Minh,2026-09-26,Lead,New,meta,meta_lead_acne,,Oily,Pigmentation,,0,0,,
+Gia Hân,Trần,gia.han.tran943@example.org,+84350174923,TP. Hồ Chí Minh,2026-09-26,Lead,New,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Thùy Linh,Phạm,thuy.linh.pham279@example.net,+84342273451,Đà Nẵng,2026-09-26,Lead,Unqualified,meta,meta_lead_acne,,,,,0,0,,
+Ánh Dương,Nguyễn,anh.duong.nguyen949@example.org,,TP. Hồ Chí Minh,2026-09-26,Subscriber,New,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Hải Yến,Lê,hai.yen.le626@example.com,+84932545585,Nha Trang,2026-09-26,Lead,Unqualified,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Anh Tuấn,Phan,anh.tuan.phan683@example.org,+84932700224,Đà Nẵng,2026-09-26,Customer,Connected,meta,meta_lead_acne,meta,Oily,Acne,Shopee,1,455000,2026-10-05,Standard
+Bảo Trân,Dương,bao.tran.duong789@example.org,+84945514905,TP. Hồ Chí Minh,2026-09-26,Customer,Connected,meta,meta_lead_hydration,meta,Dry,Hydration,Website,1,480000,2026-09-30,Standard
+Ngọc Anh,Nguyễn,ngoc.anh.nguyen147@example.com,+84891973821,Hà Nội,2026-09-26,Opportunity,Connected,meta,meta_lead_acne,,,,,0,0,,
+Ngọc Anh,Dương,ngoc.anh.duong543@example.net,+84838867782,TP. Hồ Chí Minh,2026-09-26,Sales Qualified Lead,Connected,google,google_search_brand,,,,,0,0,,
+Diệu Linh,Nguyễn,dieu.linh.nguyen298@example.org,+84780149173,Biên Hòa,2026-09-26,Marketing Qualified Lead,Bad Timing,google,google_search_brand,,,,,0,0,,
+Quỳnh Anh,Trần,quynh.anh.tran433@example.org,+84367628478,TP. Hồ Chí Minh,2026-09-27,Customer,Connected,meta,meta_lead_acne,organic,Oily,Acne,WhatsApp,1,1000000,2026-09-27,Standard
+Đức Anh,Lê,duc.anh.le717@example.com,+84343718119,TP. Hồ Chí Minh,2026-09-27,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Thùy Linh,Lê,thuy.linh.le484@example.net,+84348760154,TP. Hồ Chí Minh,2026-09-27,Marketing Qualified Lead,Bad Timing,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Minh Châu,Nguyễn,minh.chau.nguyen779@example.com,+84841695861,TP. Hồ Chí Minh,2026-09-27,Lead,Attempted to Contact,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Hồng Nhung,Huỳnh,hong.nhung.huynh803@example.com,+84971136745,Nha Trang,2026-09-27,Marketing Qualified Lead,Attempted to Contact,google,google_search_generic,,,,,0,0,,
+Nhã Phương,Trần,nha.phuong.tran248@example.org,+84972072193,Hà Nội,2026-09-27,Marketing Qualified Lead,Attempted to Contact,google,google_search_generic,,Sensitive,Acne,,0,0,,
+Tố Uyên,Trần,to.uyen.tran778@example.com,+84969629283,Hà Nội,2026-09-27,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,Dry,Aging,,0,0,,
+Hoài Thương,Lê,hoai.thuong.le14@example.net,+84390050184,TP. Hồ Chí Minh,2026-09-28,Lead,Attempted to Contact,meta,meta_lead_hydration,,Oily,Aging,,0,0,,
+Minh Châu,Hồ,minh.chau.ho745@example.com,+84946985272,Cần Thơ,2026-09-28,Customer,Connected,google,google_search_brand,google,Oily,Aging,Shopee,1,525000,2026-09-28,Standard
+Mai Anh,Nguyễn,mai.anh.nguyen999@example.net,+84940023823,Cần Thơ,2026-09-28,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Hà My,Đặng,ha.my.dang135@example.net,+84797938887,Hà Nội,2026-09-29,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,Dry,Aging,,0,0,,
+Nhã Phương,Bùi,nha.phuong.bui947@example.com,+84814913552,TP. Hồ Chí Minh,2026-09-29,Lead,Unqualified,meta,meta_lead_hydration,,,,,0,0,,
+Thùy Dương,Trần,thuy.duong.tran231@example.com,+84325466561,TP. Hồ Chí Minh,2026-09-29,Lead,Attempted to Contact,meta,meta_lead_hydration,,Dry,Aging,,0,0,,
+Ngọc Anh,Nguyễn,ngoc.anh.nguyen136@example.net,+84327368541,Hà Nội,2026-09-29,Customer,Connected,google,google_search_generic,google,Combination,Pigmentation,Website,1,480000,2026-10-02,Standard
+Trúc Linh,Lê,truc.linh.le898@example.org,+84357918241,TP. Hồ Chí Minh,2026-09-29,Lead,Unqualified,meta,meta_lead_hydration,,Combination,Hydration,,0,0,,
+Mai Anh,Lê,mai.anh.le461@example.org,+84849198394,Hải Phòng,2026-09-29,Opportunity,New,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Như Quỳnh,Trần,nhu.quynh.tran256@example.org,+84773158431,TP. Hồ Chí Minh,2026-09-30,Lead,New,google,google_search_brand,,,,,0,0,,
+Phương Thảo,Hồ,phuong.thao.ho747@example.org,+84867420618,Hà Nội,2026-09-30,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Bảo Trân,Đinh,bao.tran.dinh825@example.net,+84819179688,TP. Hồ Chí Minh,2026-09-30,Marketing Qualified Lead,Bad Timing,meta,meta_msg_sensitive,,Combination,Hydration,,0,0,,
+Hà My,Nguyễn,ha.my.nguyen761@example.org,+84827003705,Đà Nẵng,2026-09-30,Customer,Connected,google,google_search_brand,google,Sensitive,Acne,Shopee,1,945000,2026-09-30,Standard
+Anh Tuấn,Nguyễn,anh.tuan.nguyen377@example.net,+84388678793,Hà Nội,2026-09-30,Marketing Qualified Lead,Bad Timing,google,google_search_generic,,,,,0,0,,
+Thanh Thảo,Nguyễn,thanh.thao.nguyen478@example.org,+84976079594,TP. Hồ Chí Minh,2026-09-30,Sales Qualified Lead,Connected,meta,meta_msg_sensitive,,,,,0,0,,
+Thanh Trúc,Nguyễn,thanh.truc.nguyen615@example.net,+84932595046,Hà Nội,2026-09-30,Customer,Connected,meta,meta_lead_acne,meta,Oily,Acne,Website,1,525000,2026-10-06,Standard
+Khánh Vy,Nguyễn,khanh.vy.nguyen256@example.net,+84795255513,TP. Hồ Chí Minh,2026-09-30,Customer,Connected,meta,meta_lead_acne,meta,Combination,Hydration,Website,1,480000,2026-09-30,Standard
+Thảo Nguyên,Vũ,thao.nguyen.vu313@example.org,+84363158097,Cần Thơ,2026-09-30,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Gia Hân,Trần,gia.han.tran286@example.com,+84846824339,TP. Hồ Chí Minh,2026-10-01,Opportunity,Connected,meta,meta_lead_acne,,,,,0,0,,
+Minh Châu,Lê,minh.chau.le477@example.com,,TP. Hồ Chí Minh,2026-10-01,Subscriber,New,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Hồng Nhung,Nguyễn,hong.nhung.nguyen963@example.net,+84841627795,Đà Nẵng,2026-10-01,Marketing Qualified Lead,Bad Timing,meta,meta_msg_sensitive,,,,,0,0,,
+Phương Linh,Trần,phuong.linh.tran845@example.net,+84888026132,Hà Nội,2026-10-01,Opportunity,New,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Thu Hà,Trần,thu.ha.tran243@example.org,+84858794513,Cần Thơ,2026-10-01,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,,,,0,0,,
+Hoài Thương,Nguyễn,hoai.thuong.nguyen760@example.org,+84857439976,TP. Hồ Chí Minh,2026-10-02,Sales Qualified Lead,Connected,meta,meta_msg_sensitive,,,,,0,0,,
+Thùy Dương,Trần,thuy.duong.tran391@example.org,+84337987381,Hải Phòng,2026-10-02,Lead,Unqualified,meta,meta_msg_sensitive,,Sensitive,Hydration,,0,0,,
+Thu Hà,Phạm,thu.ha.pham892@example.net,+84968853919,Hà Nội,2026-10-02,Marketing Qualified Lead,Bad Timing,google,google_search_generic,,Combination,Pigmentation,,0,0,,
+Thảo Nguyên,Lý,thao.nguyen.ly957@example.org,+84886529150,Hải Phòng,2026-10-02,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,Oily,Hydration,,0,0,,
+Thùy Dương,Đặng,thuy.duong.dang583@example.org,+84976419342,Hải Phòng,2026-10-02,Marketing Qualified Lead,Bad Timing,meta,meta_lead_acne,,Combination,Pigmentation,,0,0,,
+Bảo Trân,Trần,bao.tran.tran551@example.org,+84851191871,TP. Hồ Chí Minh,2026-10-03,Lead,New,meta,meta_lead_hydration,,,,,0,0,,
+Minh Thư,Đặng,minh.thu.dang839@example.org,+84818806962,TP. Hồ Chí Minh,2026-10-03,Customer,Connected,google,google_search_brand,direct,Combination,Aging,Website,1,900000,2026-10-03,Standard
+Tuấn Kiệt,Lý,tuan.kiet.ly183@example.org,+84373697405,TP. Hồ Chí Minh,2026-10-03,Lead,Attempted to Contact,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Bảo Trân,Nguyễn,bao.tran.nguyen944@example.org,,Hải Phòng,2026-10-03,Subscriber,New,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Ngọc Anh,Phạm,ngoc.anh.pham970@example.com,+84939748852,Hà Nội,2026-10-03,Lead,New,google,google_search_generic,,Oily,Pigmentation,,0,0,,
+Minh Thư,Lê,minh.thu.le273@example.org,+84780361439,Hà Nội,2026-10-03,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Gia Huy,Ngô,gia.huy.ngo576@example.net,+84987126182,Biên Hòa,2026-10-03,Customer,Connected,google,google_search_generic,google,Oily,Acne,Shopee,1,300000,2026-10-03,Standard
+Ngọc Hân,Đặng,ngoc.han.dang214@example.com,+84704175765,TP. Hồ Chí Minh,2026-10-03,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Thanh Trúc,Lê,thanh.truc.le54@example.com,+84783767052,Nha Trang,2026-10-03,Customer,Connected,meta,meta_lead_acne,google,Oily,Acne,WhatsApp,1,500000,2026-10-04,Standard
+Tuyết Nhi,Lê,tuyet.nhi.le797@example.net,+84399707027,Bình Dương,2026-10-03,Opportunity,New,meta,meta_lead_acne,,,,,0,0,,
+Bảo Trân,Trần,bao.tran.tran291@example.net,,Cần Thơ,2026-10-03,Subscriber,New,meta,meta_msg_sensitive,,Sensitive,Acne,,0,0,,
+Kiều Oanh,Lý,kieu.oanh.ly924@example.com,,Hải Phòng,2026-10-03,Subscriber,New,google,google_search_brand,,,,,0,0,,
+Hải Yến,Nguyễn,hai.yen.nguyen962@example.net,+84837552245,Hà Nội,2026-10-04,Customer,Connected,meta,meta_lead_acne,meta,Oily,Acne,Website,1,950000,2026-10-08,Standard
+Khánh Vy,Nguyễn,khanh.vy.nguyen545@example.net,+84340592960,Hà Nội,2026-10-04,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Sensitive,Acne,,0,0,,
+Thùy Linh,Trần,thuy.linh.tran898@example.org,+84706677981,TP. Hồ Chí Minh,2026-10-04,Customer,Connected,meta,meta_lead_acne,meta,Oily,Acne,Shopee,1,455000,2026-10-05,Standard
+Mai Anh,Phan,mai.anh.phan683@example.com,+84941720161,Biên Hòa,2026-10-04,Lead,New,meta,meta_lead_acne,,Sensitive,Pigmentation,,0,0,,
+Thành Đạt,Vũ,thanh.dat.vu235@example.net,+84907067318,Hà Nội,2026-10-04,Lead,Attempted to Contact,meta,meta_lead_hydration,,,,,0,0,,
+Lan Anh,Huỳnh,lan.anh.huynh660@example.net,+84910325477,TP. Hồ Chí Minh,2026-10-05,Customer,Connected,meta,meta_lead_acne,meta,Oily,Acne,Website,1,1232000,2026-10-05,Silver
+Bảo Ngọc,Phạm,bao.ngoc.pham132@example.com,+84335276818,TP. Hồ Chí Minh,2026-10-05,Lead,Attempted to Contact,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Bảo Ngọc,Lê,bao.ngoc.le851@example.org,+84790172089,Hải Phòng,2026-10-05,Customer,Connected,meta,meta_lead_acne,meta,Oily,Acne,Website,1,500000,2026-10-08,Standard
+Ngọc Hân,Nguyễn,ngoc.han.nguyen982@example.org,+84706674588,Cần Thơ,2026-10-05,Lead,Unqualified,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Quốc Bảo,Trần,quoc.bao.tran957@example.org,+84812498260,Hà Nội,2026-10-05,Lead,Attempted to Contact,meta,meta_lead_hydration,,Dry,Aging,,0,0,,
+Thùy Dương,Phạm,thuy.duong.pham670@example.com,+84390923846,Biên Hòa,2026-10-05,Lead,New,meta,meta_msg_sensitive,,Combination,Pigmentation,,0,0,,
+Tường Vi,Huỳnh,tuong.vi.huynh742@example.net,+84707653853,TP. Hồ Chí Minh,2026-10-05,Customer,Connected,google,google_search_generic,google,Combination,Hydration,Shopee,1,500000,2026-10-05,Standard
+Gia Hân,Nguyễn,gia.han.nguyen623@example.com,+84834947970,Đà Nẵng,2026-10-05,Sales Qualified Lead,Connected,google,google_search_brand,,Combination,Pigmentation,,0,0,,
+Huyền Trang,Lê,huyen.trang.le650@example.org,+84343479421,Hà Nội,2026-10-05,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Quốc Bảo,Trần,quoc.bao.tran484@example.com,+84320947266,Cần Thơ,2026-10-06,Customer,Connected,meta,meta_msg_sensitive,organic,Combination,Pigmentation,WhatsApp,1,300000,2026-10-07,Standard
+Lan Anh,Trần,lan.anh.tran547@example.org,+84901256040,Biên Hòa,2026-10-06,Customer,Connected,meta,meta_lead_acne,meta,Oily,Acne,Website,1,455000,2026-10-09,Standard
+Cẩm Tú,Hoàng,cam.tu.hoang654@example.org,+84898884905,Đà Lạt,2026-10-06,Marketing Qualified Lead,Attempted to Contact,google,google_search_generic,,,,,0,0,,
+Tường Vi,Nguyễn,tuong.vi.nguyen811@example.org,+84976217593,Hà Nội,2026-10-06,Customer,Connected,meta,meta_lead_acne,google,Oily,Acne,Website,1,455000,2026-10-10,Standard
+Kiều Oanh,Nguyễn,kieu.oanh.nguyen155@example.com,+84824255490,TP. Hồ Chí Minh,2026-10-06,Marketing Qualified Lead,Attempted to Contact,meta,meta_msg_sensitive,,Sensitive,Pigmentation,,0,0,,
+Cẩm Tú,Đỗ,cam.tu.do339@example.com,+84896962197,Hà Nội,2026-10-06,Customer,Connected,google,google_search_generic,google,Oily,Acne,WhatsApp,1,435000,2026-10-07,Standard
+Anh Tuấn,Trương,anh.tuan.truong984@example.com,,Hà Nội,2026-10-06,Subscriber,New,meta,meta_lead_hydration,,Sensitive,Hydration,,0,0,,
+Minh Châu,Đặng,minh.chau.dang785@example.com,+84828742394,Đà Nẵng,2026-10-07,Lead,Unqualified,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Bảo Trân,Nguyễn,bao.tran.nguyen888@example.com,+84907481796,TP. Hồ Chí Minh,2026-10-07,Lead,Attempted to Contact,meta,meta_lead_acne,,Sensitive,Acne,,0,0,,
+Trúc Linh,Nguyễn,truc.linh.nguyen895@example.org,+84831658426,Hà Nội,2026-10-07,Customer,Connected,meta,meta_lead_acne,organic,Oily,Acne,Shopee,1,480000,2026-10-07,Standard
+Thanh Trúc,Nguyễn,thanh.truc.nguyen788@example.org,+84918100475,TP. Hồ Chí Minh,2026-10-07,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,Oily,Hydration,,0,0,,
+Diễm My,Hồ,diem.my.ho661@example.org,+84938579922,Biên Hòa,2026-10-07,Marketing Qualified Lead,Bad Timing,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Tuyết Nhi,Đặng,tuyet.nhi.dang983@example.net,+84987167834,Hà Nội,2026-10-07,Marketing Qualified Lead,Attempted to Contact,google,google_search_generic,,Oily,Aging,,0,0,,
+Minh Thư,Nguyễn,minh.thu.nguyen541@example.com,+84381973315,Đà Lạt,2026-10-07,Customer,Connected,meta,meta_lead_hydration,meta,Dry,Aging,Shopee,1,765000,2026-10-08,Standard
+Ánh Dương,Lê,anh.duong.le911@example.org,,Đà Nẵng,2026-10-07,Subscriber,New,meta,meta_lead_hydration,,Combination,Hydration,,0,0,,
+Phương Thảo,Nguyễn,phuong.thao.nguyen35@example.org,+84856428200,Hà Nội,2026-10-08,Lead,New,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Yến Nhi,Nguyễn,yen.nhi.nguyen760@example.net,+84382382196,Đà Nẵng,2026-10-08,Lead,Attempted to Contact,google,google_search_generic,,Dry,Aging,,0,0,,
+Khánh Vy,Trần,khanh.vy.tran613@example.org,+84932009031,Hà Nội,2026-10-08,Customer,Connected,google,google_search_brand,google,Combination,Aging,Website,1,300000,2026-10-08,Standard
+Minh Thư,Lê,minh.thu.le381@example.org,+84704275890,Hà Nội,2026-10-08,Opportunity,New,meta,meta_lead_acne,,Sensitive,Pigmentation,,0,0,,
+Thu Trang,Phan,thu.trang.phan346@example.com,+84853285697,Nha Trang,2026-10-09,Lead,New,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Ngọc Hân,Phạm,ngoc.han.pham338@example.org,+84916683202,Đà Nẵng,2026-10-09,Sales Qualified Lead,Connected,google,google_search_brand,,,,,0,0,,
+Cẩm Tú,Ngô,cam.tu.ngo262@example.net,+84787428165,Hải Phòng,2026-10-09,Marketing Qualified Lead,Bad Timing,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Huyền Trang,Nguyễn,huyen.trang.nguyen429@example.com,+84843511737,TP. Hồ Chí Minh,2026-10-09,Opportunity,New,google,google_search_generic,,Combination,Acne,,0,0,,
+Khánh Vy,Hồ,khanh.vy.ho25@example.com,+84930379572,Hà Nội,2026-10-09,Lead,New,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Tuyết Nhi,Đỗ,tuyet.nhi.do804@example.net,+84799333311,Đà Nẵng,2026-10-09,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,,,,0,0,,
+Lan Anh,Huỳnh,lan.anh.huynh956@example.com,+84894905689,Hà Nội,2026-10-10,Lead,New,meta,meta_lead_hydration,,Combination,Hydration,,0,0,,
+Cẩm Tú,Phạm,cam.tu.pham895@example.com,+84838962450,TP. Hồ Chí Minh,2026-10-10,Sales Qualified Lead,Connected,google,google_search_generic,,,,,0,0,,
+Như Quỳnh,Phạm,nhu.quynh.pham523@example.net,+84832314053,Hải Phòng,2026-10-10,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Diễm My,Lý,diem.my.ly947@example.net,+84888453675,Hải Phòng,2026-10-10,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Sensitive,Acne,,0,0,,
+Nhã Phương,Trương,nha.phuong.truong536@example.org,+84909496091,Hà Nội,2026-10-10,Opportunity,Attempted to Contact,meta,meta_lead_acne,,,,,0,0,,
+Bích Ngọc,Nguyễn,bich.ngoc.nguyen403@example.org,+84332740698,Hà Nội,2026-10-10,Lead,Attempted to Contact,google,google_search_generic,,Oily,Pigmentation,,0,0,,
+Thùy Dương,Trần,thuy.duong.tran537@example.org,+84396327355,Biên Hòa,2026-10-10,Lead,Unqualified,meta,meta_lead_hydration,,Combination,Hydration,,0,0,,
+Thảo Nguyên,Nguyễn,thao.nguyen.nguyen907@example.org,+84973081769,TP. Hồ Chí Minh,2026-10-11,Sales Qualified Lead,Connected,google,google_search_generic,,Dry,Acne,,0,0,,
+Phương Linh,Trần,phuong.linh.tran915@example.com,+84887245009,Hà Nội,2026-10-11,Sales Qualified Lead,Connected,meta,meta_msg_sensitive,,Sensitive,Acne,,0,0,,
+Bảo Trân,Lê,bao.tran.le380@example.com,+84944946966,Cần Thơ,2026-10-11,Lead,New,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Thu Hà,Nguyễn,thu.ha.nguyen849@example.org,+84884121362,Đà Nẵng,2026-10-11,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Kim Ngân,Nguyễn,kim.ngan.nguyen973@example.org,+84838394058,TP. Hồ Chí Minh,2026-10-11,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Hoài Thương,Nguyễn,hoai.thuong.nguyen523@example.com,+84961309776,Hà Nội,2026-10-11,Sales Qualified Lead,Connected,google,google_search_generic,,,,,0,0,,
+Minh Thư,Nguyễn,minh.thu.nguyen549@example.com,,TP. Hồ Chí Minh,2026-10-12,Subscriber,New,meta,meta_lead_acne,,,,,0,0,,
+Thùy Linh,Đặng,thuy.linh.dang505@example.net,+84825612256,TP. Hồ Chí Minh,2026-10-12,Lead,Attempted to Contact,google,google_search_generic,,Oily,Aging,,0,0,,
+Yến Nhi,Trần,yen.nhi.tran358@example.org,+84701311488,Hà Nội,2026-10-12,Lead,Unqualified,meta,meta_lead_hydration,,,,,0,0,,
+Thu Trang,Hoàng,thu.trang.hoang581@example.org,+84792563651,Hà Nội,2026-10-12,Marketing Qualified Lead,Attempted to Contact,meta,meta_msg_sensitive,,Sensitive,Hydration,,0,0,,
+Hải Yến,Đinh,hai.yen.dinh38@example.org,+84824414790,Cần Thơ,2026-10-12,Marketing Qualified Lead,Bad Timing,meta,meta_msg_sensitive,,Dry,Hydration,,0,0,,
+Thùy Linh,Trần,thuy.linh.tran428@example.net,+84968087642,Vũng Tàu,2026-10-12,Sales Qualified Lead,Connected,google,google_search_brand,,Sensitive,Hydration,,0,0,,
+Tường Vi,Phan,tuong.vi.phan412@example.org,+84915902006,Vũng Tàu,2026-10-12,Lead,Unqualified,meta,meta_lead_hydration,,,,,0,0,,
+Thu Trang,Nguyễn,thu.trang.nguyen473@example.com,+84860053379,Hà Nội,2026-10-12,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Sensitive,Pigmentation,,0,0,,
+Lan Anh,Ngô,lan.anh.ngo811@example.net,+84882361676,Cần Thơ,2026-10-12,Marketing Qualified Lead,Attempted to Contact,google,google_search_generic,,Dry,Hydration,,0,0,,
+Tố Uyên,Ngô,to.uyen.ngo228@example.net,+84823646673,TP. Hồ Chí Minh,2026-10-13,Lead,Unqualified,google,google_search_generic,,Sensitive,Pigmentation,,0,0,,
+Thanh Thảo,Đỗ,thanh.thao.do891@example.org,+84773140688,TP. Hồ Chí Minh,2026-10-13,Lead,Unqualified,meta,meta_msg_sensitive,,,,,0,0,,
+Minh Thư,Trần,minh.thu.tran189@example.com,+84932273876,TP. Hồ Chí Minh,2026-10-13,Lead,New,meta,meta_lead_hydration,,Sensitive,Hydration,,0,0,,
+Bảo Trân,Lê,bao.tran.le968@example.org,+84883906095,TP. Hồ Chí Minh,2026-10-13,Lead,Unqualified,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Tuấn Kiệt,Trần,tuan.kiet.tran876@example.org,+84799941935,TP. Hồ Chí Minh,2026-10-13,Lead,Attempted to Contact,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Cẩm Tú,Trần,cam.tu.tran444@example.net,+84979911937,TP. Hồ Chí Minh,2026-10-13,Lead,Attempted to Contact,meta,meta_lead_hydration,,Combination,Hydration,,0,0,,
+Nhã Phương,Nguyễn,nha.phuong.nguyen392@example.net,+84347931067,Bình Dương,2026-10-13,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Hoàng Nam,Bùi,hoang.nam.bui998@example.net,+84794437232,TP. Hồ Chí Minh,2026-10-13,Lead,New,meta,meta_lead_acne,,Sensitive,Acne,,0,0,,
+Đức Anh,Nguyễn,duc.anh.nguyen812@example.net,+84988902692,TP. Hồ Chí Minh,2026-10-13,Lead,Unqualified,meta,meta_lead_acne,,,,,0,0,,
+Minh Thư,Lê,minh.thu.le738@example.org,+84342202850,Hà Nội,2026-10-14,Lead,Attempted to Contact,google,google_search_generic,,Dry,Pigmentation,,0,0,,
+Tuyết Nhi,Nguyễn,tuyet.nhi.nguyen65@example.org,+84904514615,TP. Hồ Chí Minh,2026-10-14,Lead,New,meta,meta_lead_hydration,,,,,0,0,,
+Phương Linh,Phạm,phuong.linh.pham619@example.com,+84356900134,TP. Hồ Chí Minh,2026-10-14,Customer,Connected,meta,meta_lead_acne,meta,Sensitive,Acne,WhatsApp,1,455000,2026-10-16,Standard
+Mỹ Linh,Nguyễn,my.linh.nguyen760@example.net,+84399823404,Hà Nội,2026-10-14,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_acne,,,,,0,0,,
+Anh Tuấn,Đỗ,anh.tuan.do469@example.net,+84864055548,TP. Hồ Chí Minh,2026-10-14,Lead,New,meta,meta_lead_acne,,Combination,Pigmentation,,0,0,,
+Thu Trang,Lê,thu.trang.le907@example.net,+84907881645,TP. Hồ Chí Minh,2026-10-14,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_acne,,Oily,Hydration,,0,0,,
+Huyền Trang,Phạm,huyen.trang.pham199@example.com,+84322495576,Nha Trang,2026-10-14,Sales Qualified Lead,Connected,meta,meta_lead_acne,,,,,0,0,,
+Thu Hà,Đinh,thu.ha.dinh127@example.org,+84367189306,Nha Trang,2026-10-15,Marketing Qualified Lead,Bad Timing,meta,meta_lead_hydration,,,,,0,0,,
+Diễm My,Đỗ,diem.my.do62@example.org,+84847469217,Hà Nội,2026-10-15,Sales Qualified Lead,Connected,meta,meta_msg_sensitive,,Dry,Pigmentation,,0,0,,
+Lan Anh,Ngô,lan.anh.ngo639@example.com,+84766228828,TP. Hồ Chí Minh,2026-10-15,Lead,Attempted to Contact,google,google_search_generic,,,,,0,0,,
+Quốc Bảo,Trần,quoc.bao.tran988@example.org,+84347531693,TP. Hồ Chí Minh,2026-10-15,Customer,Connected,google,google_search_generic,google,Dry,Acne,WhatsApp,1,480000,2026-10-17,Standard
+Kiều Oanh,Nguyễn,kieu.oanh.nguyen683@example.net,+84941867731,Biên Hòa,2026-10-15,Lead,Unqualified,google,google_search_brand,,,,,0,0,,
+Minh Châu,Đỗ,minh.chau.do652@example.org,+84776062545,TP. Hồ Chí Minh,2026-10-16,Opportunity,Attempted to Contact,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Tuấn Kiệt,Nguyễn,tuan.kiet.nguyen189@example.com,+84783104966,TP. Hồ Chí Minh,2026-10-16,Marketing Qualified Lead,Attempted to Contact,google,google_search_generic,,Dry,Pigmentation,,0,0,,
+Thanh Thảo,Phạm,thanh.thao.pham780@example.net,+84839410171,Đà Nẵng,2026-10-16,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Hải Yến,Lê,hai.yen.le137@example.net,+84987133485,Hà Nội,2026-10-16,Lead,Unqualified,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Lan Anh,Phạm,lan.anh.pham198@example.org,+84330729202,Hà Nội,2026-10-16,Lead,Attempted to Contact,google,google_search_brand,,Combination,Hydration,,0,0,,
+Thu Trang,Lê,thu.trang.le47@example.net,+84848738834,Đà Nẵng,2026-10-16,Lead,New,meta,meta_lead_hydration,,,,,0,0,,
+Kim Ngân,Lê,kim.ngan.le625@example.net,+84327624302,Đà Nẵng,2026-10-16,Customer,Connected,meta,meta_msg_sensitive,google,Dry,Hydration,Website,1,1400000,2026-10-16,Silver
+Bích Ngọc,Đặng,bich.ngoc.dang173@example.net,+84975292347,Hà Nội,2026-10-16,Lead,New,google,google_search_generic,,,,,0,0,,
+Tố Uyên,Võ,to.uyen.vo394@example.com,+84772817875,TP. Hồ Chí Minh,2026-10-16,Marketing Qualified Lead,Bad Timing,meta,meta_lead_hydration,,,,,0,0,,
+Ánh Dương,Nguyễn,anh.duong.nguyen490@example.com,+84790023024,Hà Nội,2026-10-16,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,Sensitive,Aging,,0,0,,
+Thanh Trúc,Lê,thanh.truc.le765@example.com,+84346460294,Hải Phòng,2026-10-17,Customer,Connected,meta,meta_msg_sensitive,google,Sensitive,Pigmentation,WhatsApp,1,1080000,2026-10-17,Standard
+Thanh Thảo,Nguyễn,thanh.thao.nguyen320@example.org,+84788216322,Hà Nội,2026-10-17,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_hydration,,,,,0,0,,
+Tố Uyên,Lê,to.uyen.le620@example.net,,Đà Nẵng,2026-10-17,Subscriber,New,meta,meta_msg_sensitive,,Sensitive,Pigmentation,,0,0,,
+Diễm My,Lý,diem.my.ly779@example.com,+84766637006,TP. Hồ Chí Minh,2026-10-17,Sales Qualified Lead,Connected,google,google_search_brand,,,,,0,0,,
+Ánh Dương,Phạm,anh.duong.pham613@example.net,+84702378781,Vũng Tàu,2026-10-17,Customer,Connected,meta,meta_lead_acne,meta,Combination,Acne,Shopee,1,500000,2026-10-27,Standard
+Bảo Ngọc,Nguyễn,bao.ngoc.nguyen21@example.org,+84385443507,Đà Nẵng,2026-10-17,Lead,Attempted to Contact,google,google_search_generic,,Combination,Aging,,0,0,,
+Minh Khang,Hoàng,minh.khang.hoang965@example.com,+84834665860,TP. Hồ Chí Minh,2026-10-17,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_acne,,Sensitive,Acne,,0,0,,
+Như Quỳnh,Phạm,nhu.quynh.pham20@example.net,+84968587709,Hà Nội,2026-10-17,Marketing Qualified Lead,Attempted to Contact,meta,meta_msg_sensitive,,Sensitive,Pigmentation,,0,0,,
+Gia Hân,Phạm,gia.han.pham1@example.org,+84336533191,TP. Hồ Chí Minh,2026-10-17,Lead,Attempted to Contact,meta,meta_lead_acne,,,,,0,0,,
+Thanh Thảo,Lý,thanh.thao.ly144@example.org,+84903978894,Đà Lạt,2026-10-17,Lead,Unqualified,google,google_search_generic,,,,,0,0,,
+Bảo Trân,Lê,bao.tran.le631@example.com,+84812890623,TP. Hồ Chí Minh,2026-10-18,Marketing Qualified Lead,Attempted to Contact,meta,meta_msg_sensitive,,,,,0,0,,
+Anh Tuấn,Nguyễn,anh.tuan.nguyen493@example.com,+84375948162,Hà Nội,2026-10-18,Marketing Qualified Lead,Bad Timing,meta,meta_lead_hydration,,,,,0,0,,
+Bích Ngọc,Lê,bich.ngoc.le824@example.org,+84330471728,TP. Hồ Chí Minh,2026-10-18,Lead,Attempted to Contact,meta,meta_lead_acne,,,,,0,0,,
+Bảo Ngọc,Nguyễn,bao.ngoc.nguyen701@example.org,+84379019572,Đà Lạt,2026-10-18,Lead,Unqualified,meta,meta_msg_sensitive,,Sensitive,Hydration,,0,0,,
+Mai Anh,Nguyễn,mai.anh.nguyen853@example.net,+84775695763,Đà Nẵng,2026-10-18,Customer,Connected,google,google_search_brand,google,Combination,Hydration,Shopee,1,800000,2026-10-18,Standard
+Khánh Vy,Đặng,khanh.vy.dang107@example.com,,Hà Nội,2026-10-18,Subscriber,New,google,google_search_generic,,Combination,Acne,,0,0,,
+Thùy Dương,Võ,thuy.duong.vo529@example.net,+84823322675,TP. Hồ Chí Minh,2026-10-18,Marketing Qualified Lead,Bad Timing,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Thu Trang,Trần,thu.trang.tran702@example.com,+84382205833,TP. Hồ Chí Minh,2026-10-18,Customer,Connected,meta,meta_lead_hydration,meta,Dry,Aging,Website,1,525000,2026-10-20,Standard
+Bảo Trân,Hồ,bao.tran.ho822@example.net,+84324516836,TP. Hồ Chí Minh,2026-10-18,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Thảo Nguyên,Nguyễn,thao.nguyen.nguyen887@example.net,+84361829386,Bình Dương,2026-10-18,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Kim Ngân,Dương,kim.ngan.duong226@example.org,+84981198832,TP. Hồ Chí Minh,2026-10-18,Marketing Qualified Lead,Bad Timing,meta,meta_lead_acne,,,,,0,0,,
+Lan Anh,Trần,lan.anh.tran794@example.com,+84775538240,Cần Thơ,2026-10-19,Sales Qualified Lead,Connected,google,google_search_generic,,Sensitive,Acne,,0,0,,
+Cẩm Tú,Nguyễn,cam.tu.nguyen641@example.org,+84706825908,TP. Hồ Chí Minh,2026-10-19,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Như Quỳnh,Lê,nhu.quynh.le957@example.com,+84355682019,Vũng Tàu,2026-10-19,Lead,Attempted to Contact,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Hoài Thương,Nguyễn,hoai.thuong.nguyen922@example.com,+84849210029,TP. Hồ Chí Minh,2026-10-19,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,Combination,Aging,,0,0,,
+Tố Uyên,Lê,to.uyen.le707@example.org,+84886056810,TP. Hồ Chí Minh,2026-10-19,Lead,New,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Lan Anh,Trương,lan.anh.truong367@example.org,+84828393014,TP. Hồ Chí Minh,2026-10-19,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Sensitive,Acne,,0,0,,
+Ánh Dương,Lê,anh.duong.le555@example.net,+84333922804,TP. Hồ Chí Minh,2026-10-19,Sales Qualified Lead,Connected,google,google_search_brand,,Dry,Acne,,0,0,,
+Tường Vi,Nguyễn,tuong.vi.nguyen667@example.net,+84826956308,TP. Hồ Chí Minh,2026-10-19,Customer,Connected,meta,meta_lead_hydration,meta,Combination,Hydration,Website,1,480000,2026-10-24,Standard
+Minh Thư,Nguyễn,minh.thu.nguyen431@example.com,+84348358267,TP. Hồ Chí Minh,2026-10-19,Lead,New,google,google_search_generic,,Combination,Pigmentation,,0,0,,
+Mai Anh,Lê,mai.anh.le858@example.net,,TP. Hồ Chí Minh,2026-10-19,Subscriber,New,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Yến Nhi,Trần,yen.nhi.tran188@example.net,+84706276848,Hà Nội,2026-10-19,Marketing Qualified Lead,Attempted to Contact,google,google_search_generic,,,,,0,0,,
+Thùy Dương,Trần,thuy.duong.tran149@example.net,+84838833842,Nha Trang,2026-10-19,Marketing Qualified Lead,Bad Timing,meta,meta_lead_acne,,,,,0,0,,
+Bảo Trân,Nguyễn,bao.tran.nguyen707@example.com,+84346126194,Hải Phòng,2026-10-20,Lead,Attempted to Contact,meta,meta_lead_acne,,Combination,Hydration,,0,0,,
+Huyền Trang,Nguyễn,huyen.trang.nguyen23@example.org,,TP. Hồ Chí Minh,2026-10-20,Subscriber,New,meta,meta_lead_hydration,,Combination,Hydration,,0,0,,
+Trúc Linh,Phan,truc.linh.phan78@example.org,+84962475468,Hà Nội,2026-10-20,Customer,Connected,meta,meta_msg_sensitive,meta,Sensitive,Hydration,Shopee,1,480000,2026-10-20,Standard
+Diệu Linh,Nguyễn,dieu.linh.nguyen85@example.com,+84356658638,TP. Hồ Chí Minh,2026-10-20,Sales Qualified Lead,Connected,google,google_search_brand,,Dry,Acne,,0,0,,
+Thùy Linh,Hồ,thuy.linh.ho633@example.net,+84706965031,TP. Hồ Chí Minh,2026-10-20,Lead,Attempted to Contact,meta,meta_lead_hydration,,,,,0,0,,
+Mai Anh,Nguyễn,mai.anh.nguyen415@example.net,+84365392378,TP. Hồ Chí Minh,2026-10-20,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Ánh Dương,Lê,anh.duong.le809@example.net,+84849287106,TP. Hồ Chí Minh,2026-10-20,Customer,Connected,google,google_search_brand,google,Combination,Aging,Website,1,720000,2026-10-20,Standard
+Diệu Linh,Trần,dieu.linh.tran681@example.org,+84331193351,Đà Nẵng,2026-10-20,Sales Qualified Lead,Connected,meta,meta_lead_acne,,,,,0,0,,
+Thùy Linh,Trần,thuy.linh.tran178@example.com,+84793010266,Hà Nội,2026-10-21,Lead,New,meta,meta_lead_hydration,,,,,0,0,,
+Lan Anh,Nguyễn,lan.anh.nguyen519@example.com,+84330760210,TP. Hồ Chí Minh,2026-10-21,Customer,Connected,meta,meta_lead_hydration,meta,Combination,Hydration,WhatsApp,1,480000,2026-10-23,Standard
+Diễm My,Trần,diem.my.tran820@example.net,+84916300050,Hà Nội,2026-10-21,Opportunity,Attempted to Contact,meta,meta_lead_acne,,,,,0,0,,
+Đức Anh,Dương,duc.anh.duong687@example.org,+84781014307,Hà Nội,2026-10-21,Customer,Connected,meta,meta_lead_acne,meta,Oily,Acne,Shopee,1,455000,2026-10-21,Standard
+Yến Nhi,Đinh,yen.nhi.dinh603@example.com,+84821041781,TP. Hồ Chí Minh,2026-10-21,Customer,Connected,meta,meta_lead_acne,meta,Oily,Acne,Website,1,480000,2026-10-23,Standard
+Hoàng Nam,Phạm,hoang.nam.pham760@example.com,+84857871935,TP. Hồ Chí Minh,2026-10-21,Lead,New,google,google_search_brand,,Combination,Pigmentation,,0,0,,
+Hồng Nhung,Nguyễn,hong.nhung.nguyen303@example.org,+84780125421,Đà Nẵng,2026-10-21,Marketing Qualified Lead,Attempted to Contact,google,google_search_brand,,,,,0,0,,
+Mỹ Linh,Trần,my.linh.tran760@example.org,+84380618886,Cần Thơ,2026-10-21,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_acne,,Combination,Pigmentation,,0,0,,
+Cẩm Tú,Trần,cam.tu.tran712@example.com,+84762985770,Hà Nội,2026-10-22,Customer,Connected,meta,meta_msg_sensitive,google,Sensitive,Hydration,WhatsApp,1,750000,2026-10-22,Standard
+Hồng Nhung,Nguyễn,hong.nhung.nguyen913@example.com,+84338248638,TP. Hồ Chí Minh,2026-10-22,Marketing Qualified Lead,Bad Timing,meta,meta_msg_sensitive,,,,,0,0,,
+Thu Hà,Hồ,thu.ha.ho38@example.com,,TP. Hồ Chí Minh,2026-10-22,Subscriber,New,google,google_search_generic,,Oily,Acne,,0,0,,
+Quốc Bảo,Bùi,quoc.bao.bui719@example.net,+84816644609,TP. Hồ Chí Minh,2026-10-22,Marketing Qualified Lead,Attempted to Contact,google,google_search_generic,,Oily,Pigmentation,,0,0,,
+Thu Trang,Nguyễn,thu.trang.nguyen806@example.org,+84943225519,TP. Hồ Chí Minh,2026-10-22,Customer,Connected,meta,meta_lead_hydration,google,Sensitive,Aging,Website,1,1000000,2026-10-23,Standard
+Như Quỳnh,Nguyễn,nhu.quynh.nguyen964@example.net,+84973352567,Vũng Tàu,2026-10-23,Lead,New,meta,meta_msg_sensitive,,Sensitive,Acne,,0,0,,
+Minh Châu,Dương,minh.chau.duong146@example.net,+84866209410,Cần Thơ,2026-10-23,Lead,New,google,google_search_brand,,Dry,Aging,,0,0,,
+Tố Uyên,Hoàng,to.uyen.hoang875@example.org,+84820691904,TP. Hồ Chí Minh,2026-10-23,Sales Qualified Lead,Connected,meta,meta_msg_sensitive,,,,,0,0,,
+Kiều Oanh,Nguyễn,kieu.oanh.nguyen509@example.com,+84834031677,TP. Hồ Chí Minh,2026-10-23,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,,,,0,0,,
+Hồng Nhung,Hoàng,hong.nhung.hoang997@example.com,+84364759252,TP. Hồ Chí Minh,2026-10-23,Customer,Connected,meta,meta_lead_acne,google,Combination,Acne,Website,1,500000,2026-10-25,Standard
+Thanh Trúc,Phạm,thanh.truc.pham60@example.com,,Cần Thơ,2026-10-23,Subscriber,New,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Gia Hân,Nguyễn,gia.han.nguyen547@example.com,+84350597866,Hà Nội,2026-10-23,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_acne,,,,,0,0,,
+Diệu Linh,Phạm,dieu.linh.pham363@example.org,+84325980489,Hà Nội,2026-10-23,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_hydration,,,,,0,0,,
+Tố Uyên,Trần,to.uyen.tran968@example.org,+84775953140,Đà Nẵng,2026-10-24,Marketing Qualified Lead,Attempted to Contact,google,google_search_generic,,,,,0,0,,
+Khánh Vy,Nguyễn,khanh.vy.nguyen911@example.net,+84826198235,TP. Hồ Chí Minh,2026-10-24,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Thanh Thảo,Lê,thanh.thao.le240@example.com,+84935236028,TP. Hồ Chí Minh,2026-10-24,Lead,New,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Yến Nhi,Nguyễn,yen.nhi.nguyen181@example.org,+84796215505,Hà Nội,2026-10-24,Marketing Qualified Lead,Attempted to Contact,google,google_search_generic,,,,,0,0,,
+Hoài Thương,Trần,hoai.thuong.tran790@example.com,+84942314923,TP. Hồ Chí Minh,2026-10-25,Lead,New,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Như Quỳnh,Nguyễn,nhu.quynh.nguyen858@example.org,+84811324228,Biên Hòa,2026-10-25,Marketing Qualified Lead,Bad Timing,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Thảo Nguyên,Đỗ,thao.nguyen.do181@example.com,+84862421015,Vũng Tàu,2026-10-25,Lead,Attempted to Contact,google,google_search_generic,,Oily,Aging,,0,0,,
+Hà My,Đỗ,ha.my.do472@example.org,+84702271722,Hà Nội,2026-10-25,Lead,New,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Gia Hân,Đinh,gia.han.dinh139@example.org,+84761826800,TP. Hồ Chí Minh,2026-10-25,Lead,New,meta,meta_msg_sensitive,,Dry,Hydration,,0,0,,
+Trúc Linh,Bùi,truc.linh.bui348@example.com,+84761743501,TP. Hồ Chí Minh,2026-10-25,Lead,Attempted to Contact,google,google_search_generic,,Oily,Acne,,0,0,,
+Mai Anh,Nguyễn,mai.anh.nguyen369@example.com,+84961317111,Hải Phòng,2026-10-25,Marketing Qualified Lead,Bad Timing,google,google_search_brand,,Sensitive,Hydration,,0,0,,
+Ánh Dương,Ngô,anh.duong.ngo808@example.net,+84931342599,TP. Hồ Chí Minh,2026-10-25,Lead,New,meta,meta_lead_hydration,,Combination,Hydration,,0,0,,
+Như Quỳnh,Vũ,nhu.quynh.vu718@example.net,+84788461106,TP. Hồ Chí Minh,2026-10-25,Customer,Connected,meta,meta_lead_acne,meta,Oily,Hydration,Website,1,498000,2026-10-26,Standard
+Ánh Dương,Nguyễn,anh.duong.nguyen821@example.net,+84769110357,TP. Hồ Chí Minh,2026-10-25,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Oily,Pigmentation,,0,0,,
+Ngọc Hân,Trần,ngoc.han.tran10@example.net,+84965038248,TP. Hồ Chí Minh,2026-10-26,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Như Quỳnh,Nguyễn,nhu.quynh.nguyen469@example.org,+84915684040,Hà Nội,2026-10-26,Lead,Attempted to Contact,google,google_search_generic,,,,,0,0,,
+Trúc Linh,Nguyễn,truc.linh.nguyen412@example.org,+84346765509,TP. Hồ Chí Minh,2026-10-26,Lead,New,google,google_search_brand,,,,,0,0,,
+Thùy Dương,Nguyễn,thuy.duong.nguyen44@example.org,+84867686473,TP. Hồ Chí Minh,2026-10-26,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Thu Hà,Nguyễn,thu.ha.nguyen241@example.com,+84327211860,Hà Nội,2026-10-26,Sales Qualified Lead,Connected,google,google_search_generic,,Combination,Hydration,,0,0,,
+Thùy Dương,Nguyễn,thuy.duong.nguyen467@example.net,+84352048467,TP. Hồ Chí Minh,2026-10-26,Lead,Attempted to Contact,meta,meta_lead_hydration,,,,,0,0,,
+Tuyết Nhi,Lê,tuyet.nhi.le109@example.org,+84324954933,Biên Hòa,2026-10-26,Customer,Connected,meta,meta_lead_acne,meta,Sensitive,Acne,Shopee,1,850000,2026-10-28,Standard
+Bích Ngọc,Nguyễn,bich.ngoc.nguyen823@example.com,+84763357379,Hà Nội,2026-10-26,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,Sensitive,Hydration,,0,0,,
+Diệu Linh,Trần,dieu.linh.tran513@example.com,+84900140472,TP. Hồ Chí Minh,2026-10-27,Sales Qualified Lead,Connected,meta,meta_lead_acne,,,,,0,0,,
+Huyền Trang,Nguyễn,huyen.trang.nguyen89@example.org,+84848818332,Hải Phòng,2026-10-27,Marketing Qualified Lead,Attempted to Contact,meta,meta_msg_sensitive,,Combination,Hydration,,0,0,,
+Ngọc Anh,Lê,ngoc.anh.le747@example.net,+84860402033,Vũng Tàu,2026-10-27,Lead,Unqualified,google,google_search_generic,,,,,0,0,,
+Hải Yến,Nguyễn,hai.yen.nguyen380@example.net,+84829829963,Bình Dương,2026-10-27,Sales Qualified Lead,Connected,meta,meta_msg_sensitive,,Sensitive,Hydration,,0,0,,
+Mỹ Linh,Võ,my.linh.vo675@example.net,+84933239911,TP. Hồ Chí Minh,2026-10-28,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,,,,0,0,,
+Cẩm Tú,Phạm,cam.tu.pham786@example.net,+84368925628,Hải Phòng,2026-10-28,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_acne,,Sensitive,Acne,,0,0,,
+Quỳnh Anh,Lê,quynh.anh.le312@example.org,+84373132442,Hà Nội,2026-10-28,Sales Qualified Lead,Connected,meta,meta_msg_sensitive,,,,,0,0,,
+Ánh Dương,Nguyễn,anh.duong.nguyen846@example.com,+84942403588,Cần Thơ,2026-10-28,Customer,Connected,meta,meta_lead_hydration,meta,Combination,Aging,Shopee,1,525000,2026-11-04,Standard
+Như Quỳnh,Đặng,nhu.quynh.dang873@example.net,+84858394380,TP. Hồ Chí Minh,2026-10-28,Customer,Connected,meta,meta_lead_acne,meta,Combination,Acne,Website,1,550000,2026-10-29,Standard
+Quỳnh Anh,Trần,quynh.anh.tran103@example.org,+84382922637,TP. Hồ Chí Minh,2026-10-28,Customer,Connected,meta,meta_lead_hydration,meta,Oily,Hydration,Website,1,720000,2026-11-01,Standard
+Tố Uyên,Phan,to.uyen.phan698@example.com,+84982346126,TP. Hồ Chí Minh,2026-10-29,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_acne,,,,,0,0,,
+Kiều Oanh,Phan,kieu.oanh.phan910@example.com,+84330510141,Hải Phòng,2026-10-29,Marketing Qualified Lead,Attempted to Contact,google,google_search_generic,,Combination,Hydration,,0,0,,
+Diễm My,Trần,diem.my.tran910@example.org,+84811423191,Hải Phòng,2026-10-29,Customer,Connected,meta,meta_lead_acne,organic,Oily,Pigmentation,Website,1,500000,2026-10-29,Standard
+Bích Ngọc,Nguyễn,bich.ngoc.nguyen635@example.com,,Hà Nội,2026-10-29,Subscriber,New,meta,meta_lead_hydration,,,,,0,0,,
+Như Quỳnh,Phan,nhu.quynh.phan363@example.com,+84771800231,Đà Lạt,2026-10-29,Lead,Unqualified,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Ngọc Hân,Đỗ,ngoc.han.do377@example.org,+84346687258,Hà Nội,2026-10-29,Customer,Connected,meta,meta_msg_sensitive,meta,Dry,Pigmentation,WhatsApp,1,750000,2026-10-29,Standard
+Tường Vi,Nguyễn,tuong.vi.nguyen320@example.net,+84335463464,Hà Nội,2026-10-29,Marketing Qualified Lead,Attempted to Contact,meta,meta_msg_sensitive,,Sensitive,Pigmentation,,0,0,,
+Ngọc Anh,Nguyễn,ngoc.anh.nguyen495@example.org,+84968142713,Hà Nội,2026-10-29,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Hải Yến,Nguyễn,hai.yen.nguyen816@example.net,+84389382245,Đà Nẵng,2026-10-29,Customer,Connected,meta,meta_lead_hydration,google,Sensitive,Aging,Shopee,1,435000,2026-10-29,Standard
+Hoàng Nam,Vũ,hoang.nam.vu645@example.net,+84796484620,Hải Phòng,2026-10-29,Marketing Qualified Lead,Bad Timing,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Tuyết Nhi,Vũ,tuyet.nhi.vu888@example.org,+84866319027,Hải Phòng,2026-10-29,Marketing Qualified Lead,Bad Timing,google,google_search_brand,,Oily,Pigmentation,,0,0,,
+Tuyết Nhi,Nguyễn,tuyet.nhi.nguyen482@example.com,+84347257074,TP. Hồ Chí Minh,2026-10-30,Lead,Attempted to Contact,meta,meta_lead_hydration,,Combination,Hydration,,0,0,,
+Huyền Trang,Trần,huyen.trang.tran496@example.org,+84837798750,TP. Hồ Chí Minh,2026-10-30,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Phương Linh,Nguyễn,phuong.linh.nguyen700@example.org,+84334833518,Biên Hòa,2026-10-30,Lead,Attempted to Contact,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Hoài Thương,Nguyễn,hoai.thuong.nguyen17@example.com,+84819522842,TP. Hồ Chí Minh,2026-10-30,Lead,Attempted to Contact,google,google_search_generic,,Oily,Pigmentation,,0,0,,
+Tuyết Nhi,Lý,tuyet.nhi.ly4@example.com,+84851610932,Cần Thơ,2026-10-30,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Bích Ngọc,Lý,bich.ngoc.ly586@example.org,+84371733583,TP. Hồ Chí Minh,2026-10-30,Customer,Connected,meta,meta_lead_acne,meta,Combination,Acne,Website,1,808000,2026-10-30,Standard
+Phương Thảo,Nguyễn,phuong.thao.nguyen374@example.com,+84860170286,TP. Hồ Chí Minh,2026-10-31,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,,,,0,0,,
+Ngọc Anh,Nguyễn,ngoc.anh.nguyen654@example.com,+84388433000,TP. Hồ Chí Minh,2026-10-31,Lead,Attempted to Contact,meta,meta_lead_hydration,,,,,0,0,,
+Thùy Dương,Hoàng,thuy.duong.hoang560@example.net,+84817486701,Hà Nội,2026-10-31,Sales Qualified Lead,Connected,google,google_search_brand,,,,,0,0,,
+Hoài Thương,Trần,hoai.thuong.tran192@example.com,+84867645204,TP. Hồ Chí Minh,2026-10-31,Marketing Qualified Lead,Bad Timing,meta,meta_lead_acne,,,,,0,0,,
+Quỳnh Anh,Trần,quynh.anh.tran984@example.com,+84886446403,Hà Nội,2026-10-31,Customer,Connected,meta,meta_lead_acne,meta,Oily,Acne,WhatsApp,1,498000,2026-11-01,Standard
+Khánh Vy,Lê,khanh.vy.le231@example.org,+84357765328,TP. Hồ Chí Minh,2026-10-31,Lead,New,meta,meta_lead_acne,,Combination,Pigmentation,,0,0,,
+Bảo Ngọc,Nguyễn,bao.ngoc.nguyen554@example.com,+84376604922,Biên Hòa,2026-10-31,Lead,Attempted to Contact,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Huyền Trang,Hoàng,huyen.trang.hoang127@example.org,+84824733687,TP. Hồ Chí Minh,2026-11-01,Lead,Attempted to Contact,google,google_search_brand,,Oily,Hydration,,0,0,,
+Minh Thư,Trần,minh.thu.tran326@example.org,+84937168466,TP. Hồ Chí Minh,2026-11-01,Opportunity,Connected,google,google_search_brand,,Sensitive,Aging,,0,0,,
+Thu Hà,Phan,thu.ha.phan769@example.com,+84832013609,TP. Hồ Chí Minh,2026-11-01,Lead,Attempted to Contact,meta,meta_msg_sensitive,,Sensitive,Hydration,,0,0,,
+Thảo Nguyên,Nguyễn,thao.nguyen.nguyen29@example.org,+84815233825,Nha Trang,2026-11-01,Marketing Qualified Lead,Attempted to Contact,meta,meta_msg_sensitive,,Sensitive,Hydration,,0,0,,
+Thành Đạt,Lý,thanh.dat.ly723@example.com,+84760402061,Biên Hòa,2026-11-01,Lead,Unqualified,meta,meta_lead_hydration,,,,,0,0,,
+Tố Uyên,Trần,to.uyen.tran414@example.net,,TP. Hồ Chí Minh,2026-11-01,Subscriber,New,meta,meta_lead_hydration,,Combination,Hydration,,0,0,,
+Thùy Dương,Nguyễn,thuy.duong.nguyen128@example.net,+84791557273,TP. Hồ Chí Minh,2026-11-02,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,,,,0,0,,
+Gia Huy,Phạm,gia.huy.pham436@example.net,+84966870329,TP. Hồ Chí Minh,2026-11-02,Opportunity,New,google,google_search_generic,,Oily,Acne,,0,0,,
+Anh Tuấn,Phan,anh.tuan.phan829@example.com,+84983005318,TP. Hồ Chí Minh,2026-11-02,Marketing Qualified Lead,Attempted to Contact,google,google_search_generic,,Oily,Acne,,0,0,,
+Khánh Vy,Nguyễn,khanh.vy.nguyen641@example.com,+84907292801,TP. Hồ Chí Minh,2026-11-02,Customer,Connected,google,google_search_brand,google,Dry,Hydration,WhatsApp,1,800000,2026-11-02,Standard
+Gia Hân,Trần,gia.han.tran62@example.com,+84364203357,TP. Hồ Chí Minh,2026-11-02,Lead,Attempted to Contact,meta,meta_lead_acne,,Sensitive,Acne,,0,0,,
+Phương Thảo,Đỗ,phuong.thao.do170@example.org,+84331284839,TP. Hồ Chí Minh,2026-11-03,Opportunity,Attempted to Contact,meta,meta_lead_hydration,,,,,0,0,,
+Bích Ngọc,Lê,bich.ngoc.le122@example.org,+84782461213,Hà Nội,2026-11-03,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_acne,,,,,0,0,,
+Minh Thư,Trần,minh.thu.tran844@example.com,+84359975598,TP. Hồ Chí Minh,2026-11-03,Lead,Attempted to Contact,meta,meta_lead_hydration,,,,,0,0,,
+Gia Hân,Phan,gia.han.phan125@example.net,+84826126671,TP. Hồ Chí Minh,2026-11-03,Sales Qualified Lead,Connected,meta,meta_msg_sensitive,,,,,0,0,,
+Trúc Linh,Nguyễn,truc.linh.nguyen390@example.net,,Đà Nẵng,2026-11-03,Subscriber,New,meta,meta_lead_acne,,,,,0,0,,
+Bảo Ngọc,Phạm,bao.ngoc.pham832@example.net,,Đà Nẵng,2026-11-03,Subscriber,New,meta,meta_lead_acne,,,,,0,0,,
+Hà My,Đinh,ha.my.dinh738@example.org,+84389428005,Hà Nội,2026-11-03,Lead,Attempted to Contact,google,google_search_generic,,,,,0,0,,
+Minh Châu,Trương,minh.chau.truong624@example.org,+84334669398,Biên Hòa,2026-11-03,Lead,New,google,google_search_brand,,Dry,Hydration,,0,0,,
+Thu Trang,Nguyễn,thu.trang.nguyen843@example.com,+84891315299,Hà Nội,2026-11-04,Marketing Qualified Lead,Bad Timing,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Thảo Nguyên,Trần,thao.nguyen.tran952@example.com,+84966767369,Biên Hòa,2026-11-04,Lead,Attempted to Contact,google,google_search_brand,,,,,0,0,,
+Diễm My,Nguyễn,diem.my.nguyen415@example.com,+84323663682,TP. Hồ Chí Minh,2026-11-04,Sales Qualified Lead,Connected,google,google_search_brand,,Combination,Hydration,,0,0,,
+Huyền Trang,Dương,huyen.trang.duong430@example.com,+84779679519,TP. Hồ Chí Minh,2026-11-04,Lead,Attempted to Contact,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Trúc Linh,Nguyễn,truc.linh.nguyen951@example.org,+84963091681,Đà Nẵng,2026-11-04,Customer,Connected,meta,meta_lead_hydration,meta,Sensitive,Acne,Website,1,480000,2026-11-04,Standard
+Gia Huy,Trần,gia.huy.tran484@example.com,+84979127462,Đà Nẵng,2026-11-05,Marketing Qualified Lead,Attempted to Contact,meta,meta_msg_sensitive,,,,,0,0,,
+Ngọc Anh,Nguyễn,ngoc.anh.nguyen90@example.org,+84814268579,Hà Nội,2026-11-05,Customer,Connected,meta,meta_lead_acne,meta,Oily,Hydration,Website,1,950000,2026-11-06,Standard
+Tố Uyên,Nguyễn,to.uyen.nguyen840@example.org,+84331712105,Hà Nội,2026-11-05,Customer,Connected,google,google_search_generic,google,Combination,Hydration,Website,1,480000,2026-11-06,Standard
+Bích Ngọc,Nguyễn,bich.ngoc.nguyen620@example.net,+84329402073,TP. Hồ Chí Minh,2026-11-05,Marketing Qualified Lead,Bad Timing,meta,meta_msg_sensitive,,Combination,Pigmentation,,0,0,,
+Gia Hân,Đinh,gia.han.dinh850@example.com,+84948799964,Biên Hòa,2026-11-05,Customer,Connected,meta,meta_lead_hydration,meta,Oily,Hydration,Website,1,525000,2026-11-05,Standard
+Khánh Vy,Nguyễn,khanh.vy.nguyen703@example.org,+84350377437,TP. Hồ Chí Minh,2026-11-05,Lead,Attempted to Contact,google,google_search_generic,,Oily,Acne,,0,0,,
+Tuyết Nhi,Nguyễn,tuyet.nhi.nguyen210@example.com,+84910069879,TP. Hồ Chí Minh,2026-11-05,Lead,Attempted to Contact,google,google_search_generic,,Dry,Acne,,0,0,,
+Ngọc Anh,Phạm,ngoc.anh.pham66@example.org,+84798066474,TP. Hồ Chí Minh,2026-11-05,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Thùy Dương,Nguyễn,thuy.duong.nguyen790@example.com,+84356076618,TP. Hồ Chí Minh,2026-11-05,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,,,,0,0,,
+Trúc Linh,Phạm,truc.linh.pham574@example.com,+84891494419,TP. Hồ Chí Minh,2026-11-05,Sales Qualified Lead,Connected,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Ngọc Hân,Phạm,ngoc.han.pham653@example.org,+84391854869,TP. Hồ Chí Minh,2026-11-05,Opportunity,Connected,meta,meta_lead_hydration,google,Combination,Aging,Website,0,0,,
+Đức Anh,Nguyễn,duc.anh.nguyen715@example.com,+84389858267,Hà Nội,2026-11-06,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_hydration,,,,,0,0,,
+Thảo Nguyên,Lê,thao.nguyen.le951@example.org,+84931213799,Đà Nẵng,2026-11-06,Marketing Qualified Lead,Attempted to Contact,meta,meta_msg_sensitive,,Sensitive,Hydration,,0,0,,
+Hà My,Nguyễn,ha.my.nguyen681@example.net,+84941891561,Hà Nội,2026-11-06,Customer,Connected,google,google_search_generic,google,Combination,Acne,Website,1,300000,2026-11-07,Standard
+Hoài Thương,Nguyễn,hoai.thuong.nguyen817@example.net,+84919884606,Hà Nội,2026-11-06,Marketing Qualified Lead,Attempted to Contact,google,google_search_brand,,,,,0,0,,
+Cẩm Tú,Vũ,cam.tu.vu853@example.org,+84861206939,TP. Hồ Chí Minh,2026-11-07,Customer,Connected,google,google_search_brand,google,Oily,Acne,Shopee,1,1050000,2026-11-07,Standard
+Minh Khang,Lê,minh.khang.le582@example.com,+84782928532,Đà Nẵng,2026-11-07,Opportunity,Connected,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Như Quỳnh,Phạm,nhu.quynh.pham477@example.org,+84843260666,Đà Lạt,2026-11-07,Customer,Connected,meta,meta_msg_sensitive,meta,Sensitive,Pigmentation,WhatsApp,1,675000,2026-11-07,Standard
+Bảo Trân,Bùi,bao.tran.bui768@example.org,+84395170653,Đà Lạt,2026-11-07,Customer,Connected,meta,meta_lead_hydration,meta,Oily,Acne,Website,1,525000,2026-11-08,Standard
+Huyền Trang,Dương,huyen.trang.duong174@example.org,+84789918738,Hải Phòng,2026-11-07,Opportunity,Connected,meta,meta_msg_sensitive,,Sensitive,Hydration,,0,0,,
+Tuấn Kiệt,Đinh,tuan.kiet.dinh734@example.com,+84908732814,Hà Nội,2026-11-07,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,Dry,Acne,,0,0,,
+Phương Linh,Nguyễn,phuong.linh.nguyen776@example.net,+84893425008,Hà Nội,2026-11-07,Sales Qualified Lead,Connected,google,google_search_brand,,Combination,Hydration,,0,0,,
+Ngọc Hân,Trần,ngoc.han.tran937@example.net,+84822406553,TP. Hồ Chí Minh,2026-11-08,Lead,Attempted to Contact,meta,meta_lead_hydration,,Combination,Aging,,0,0,,
+Mai Anh,Nguyễn,mai.anh.nguyen210@example.net,+84819511814,Hà Nội,2026-11-08,Lead,Unqualified,meta,meta_msg_sensitive,,Sensitive,Hydration,,0,0,,
+Kim Ngân,Hồ,kim.ngan.ho539@example.net,+84790252577,Đà Nẵng,2026-11-08,Marketing Qualified Lead,Attempted to Contact,google,google_search_generic,,Dry,Hydration,,0,0,,
+Thùy Linh,Đặng,thuy.linh.dang194@example.com,+84884732237,TP. Hồ Chí Minh,2026-11-08,Lead,Attempted to Contact,meta,meta_lead_hydration,,Sensitive,Hydration,,0,0,,
+Hải Yến,Vũ,hai.yen.vu453@example.net,+84376703460,Đà Nẵng,2026-11-08,Lead,Attempted to Contact,google,google_search_generic,,Sensitive,Acne,,0,0,,
+Lan Anh,Trần,lan.anh.tran732@example.net,+84763733291,Biên Hòa,2026-11-08,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_hydration,,Dry,Acne,,0,0,,
+Ngọc Anh,Phạm,ngoc.anh.pham63@example.com,+84883650006,TP. Hồ Chí Minh,2026-11-08,Marketing Qualified Lead,Attempted to Contact,google,google_search_generic,,,,,0,0,,
+Khánh Vy,Nguyễn,khanh.vy.nguyen364@example.com,+84813928116,TP. Hồ Chí Minh,2026-11-08,Sales Qualified Lead,Connected,meta,meta_msg_sensitive,,,,,0,0,,
+Yến Nhi,Lê,yen.nhi.le349@example.net,+84906276258,TP. Hồ Chí Minh,2026-11-08,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Bích Ngọc,Ngô,bich.ngoc.ngo269@example.com,+84943502652,TP. Hồ Chí Minh,2026-11-08,Opportunity,New,meta,meta_lead_acne,,,,,0,0,,
+Hà My,Nguyễn,ha.my.nguyen450@example.net,+84391872311,TP. Hồ Chí Minh,2026-11-08,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,,,,0,0,,
+Như Quỳnh,Nguyễn,nhu.quynh.nguyen368@example.org,+84858086431,Đà Nẵng,2026-11-09,Marketing Qualified Lead,Attempted to Contact,google,google_search_generic,,Dry,Hydration,,0,0,,
+Mai Anh,Ngô,mai.anh.ngo81@example.com,+84847524492,Hà Nội,2026-11-09,Opportunity,Connected,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Nhã Phương,Dương,nha.phuong.duong280@example.org,+84825395555,Hà Nội,2026-11-09,Lead,New,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Kiều Oanh,Nguyễn,kieu.oanh.nguyen429@example.com,,Đà Nẵng,2026-11-09,Subscriber,New,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Hoài Thương,Dương,hoai.thuong.duong304@example.org,+84704051271,Hà Nội,2026-11-09,Marketing Qualified Lead,Attempted to Contact,google,google_search_generic,,,,,0,0,,
+Mỹ Linh,Đặng,my.linh.dang769@example.com,+84901261874,TP. Hồ Chí Minh,2026-11-09,Lead,New,meta,meta_lead_hydration,,Sensitive,Aging,,0,0,,
+Thảo Nguyên,Dương,thao.nguyen.duong830@example.net,+84343619932,Hà Nội,2026-11-09,Marketing Qualified Lead,Attempted to Contact,meta,meta_lead_hydration,,Oily,Aging,,0,0,,
+Bảo Ngọc,Nguyễn,bao.ngoc.nguyen745@example.com,+84859663089,Hà Nội,2026-11-09,Sales Qualified Lead,Connected,meta,meta_lead_acne,,,,,0,0,,
+Thanh Thảo,Lê,thanh.thao.le940@example.net,+84930062080,Cần Thơ,2026-11-09,Lead,New,google,google_search_generic,,,,,0,0,,
+Bảo Trân,Nguyễn,bao.tran.nguyen644@example.com,+84901796354,TP. Hồ Chí Minh,2026-11-10,Lead,New,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Khánh Vy,Hồ,khanh.vy.ho876@example.net,+84949943324,Bình Dương,2026-11-10,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Mỹ Linh,Lê,my.linh.le735@example.net,+84391902190,TP. Hồ Chí Minh,2026-11-10,Lead,Attempted to Contact,meta,meta_lead_acne,,Sensitive,Acne,,0,0,,
+Hồng Nhung,Phạm,hong.nhung.pham218@example.org,+84388207081,TP. Hồ Chí Minh,2026-11-10,Opportunity,New,meta,meta_lead_acne,,Oily,Acne,,0,0,,
+Bích Ngọc,Lê,bich.ngoc.le607@example.net,+84379508976,Vũng Tàu,2026-11-10,Opportunity,Connected,meta,meta_lead_acne,meta,Oily,Pigmentation,Website,0,0,,
+Bảo Ngọc,Nguyễn,bao.ngoc.nguyen397@example.net,+84868382677,TP. Hồ Chí Minh,2026-11-10,Lead,New,google,google_search_brand,,Oily,Hydration,,0,0,,
+Bảo Ngọc,Lý,bao.ngoc.ly559@example.org,+84909365850,TP. Hồ Chí Minh,2026-11-10,Lead,Unqualified,meta,meta_lead_acne,,,,,0,0,,
+Phương Linh,Võ,phuong.linh.vo363@example.org,+84976071195,Bình Dương,2026-11-10,Opportunity,Connected,google,google_search_brand,google,Oily,Hydration,Shopee,0,0,,
+Như Quỳnh,Nguyễn,nhu.quynh.nguyen626@example.org,+84395568979,Hà Nội,2026-11-11,Lead,New,meta,meta_lead_hydration,,Dry,Hydration,,0,0,,
+Lan Anh,Lê,lan.anh.le614@example.net,+84783654519,Hải Phòng,2026-11-11,Lead,New,google,google_search_brand,,,,,0,0,,
+Mai Anh,Nguyễn,mai.anh.nguyen240@example.net,+84380425428,Hà Nội,2026-11-11,Lead,Attempted to Contact,google,google_search_brand,,Oily,Pigmentation,,0,0,,
+Nhã Phương,Nguyễn,nha.phuong.nguyen203@example.net,+84948766246,TP. Hồ Chí Minh,2026-11-11,Lead,New,google,google_search_generic,,Oily,Aging,,0,0,,
+Huyền Trang,Trần,huyen.trang.tran111@example.net,,TP. Hồ Chí Minh,2026-11-11,Subscriber,New,meta,meta_lead_hydration,,,,,0,0,,
+Hồng Nhung,Bùi,hong.nhung.bui64@example.com,+84945972407,TP. Hồ Chí Minh,2026-11-11,Sales Qualified Lead,Connected,meta,meta_lead_hydration,,Oily,Aging,,0,0,,
+Quốc Bảo,Lý,quoc.bao.ly252@example.org,+84335859360,Hà Nội,2026-11-11,Lead,New,meta,meta_msg_sensitive,,Sensitive,Pigmentation,,0,0,,
+Tuấn Kiệt,Lê,tuan.kiet.le538@example.net,+84346008387,TP. Hồ Chí Minh,2026-11-11,Lead,New,meta,meta_lead_acne,,Combination,Acne,,0,0,,
+Khánh Vy,Nguyễn,khanh.vy.nguyen932@example.com,+84960696228,TP. Hồ Chí Minh,2026-11-12,Lead,New,meta,meta_lead_hydration,,,,,0,0,,
+Hoài Thương,Ngô,hoai.thuong.ngo796@example.com,+84760105307,Vũng Tàu,2026-11-12,Lead,New,meta,meta_lead_acne,,,,,0,0,,
+Tuyết Nhi,Nguyễn,tuyet.nhi.nguyen258@example.net,+84963059565,Nha Trang,2026-11-12,Lead,New,meta,meta_lead_acne,,Combination,Hydration,,0,0,,
+Trúc Linh,Nguyễn,truc.linh.nguyen276@example.net,+84358404484,TP. Hồ Chí Minh,2026-11-12,Lead,New,google,google_search_brand,,Combination,Hydration,,0,0,,
+Thùy Dương,Đỗ,thuy.duong.do749@example.com,+84355789434,Đà Nẵng,2026-11-12,Lead,Unqualified,meta,meta_lead_acne,,Sensitive,Acne,,0,0,,
+Diệu Linh,Hồ,dieu.linh.ho547@example.net,+84891676654,TP. Hồ Chí Minh,2026-11-12,Lead,New,meta,meta_lead_acne,,,,,0,0,,

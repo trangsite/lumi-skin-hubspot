@@ -1,0 +1,243 @@
+Deal Name,Pipeline,Deal Stage,Amount,Close Date,Order Date (reference only),Associated Contact Email
+#1001,Lumi Skin E-commerce Pipeline,Completed,855000,2026-08-20,2026-08-16,thao.nguyen.tran326@example.org
+#1002,Lumi Skin E-commerce Pipeline,Completed,435000,2026-08-20,2026-08-16,duc.anh.pham697@example.net
+#1003,Lumi Skin E-commerce Pipeline,Completed,1170000,2026-08-22,2026-08-16,truc.linh.nguyen249@example.com
+#1004,Lumi Skin E-commerce Pipeline,Completed,950000,2026-08-22,2026-08-17,quynh.anh.le112@example.net
+#1005,Lumi Skin E-commerce Pipeline,Completed,990000,2026-08-22,2026-08-18,tuan.kiet.do31@example.net
+#1006,Lumi Skin E-commerce Pipeline,Completed,900000,2026-08-24,2026-08-18,nhu.quynh.le305@example.net
+#1007,Lumi Skin E-commerce Pipeline,Completed,1050000,2026-08-25,2026-08-19,tuyet.nhi.nguyen953@example.org
+#1008,Lumi Skin E-commerce Pipeline,Completed,750000,2026-08-24,2026-08-20,khanh.vy.nguyen293@example.com
+#1009,Lumi Skin E-commerce Pipeline,Completed,808000,2026-08-25,2026-08-21,cam.tu.do94@example.net
+#1010,Lumi Skin E-commerce Pipeline,Completed,300000,2026-08-27,2026-08-23,ngoc.anh.nguyen974@example.org
+#1011,Lumi Skin E-commerce Pipeline,Completed,1395000,2026-08-29,2026-08-23,nhu.quynh.le971@example.org
+#1012,Lumi Skin E-commerce Pipeline,Completed,480000,2026-08-28,2026-08-23,thu.trang.le155@example.com
+#1013,Lumi Skin E-commerce Pipeline,Completed,480000,2026-08-28,2026-08-23,bich.ngoc.nguyen773@example.com
+#1014,Lumi Skin E-commerce Pipeline,Completed,435000,2026-08-30,2026-08-24,yen.nhi.le568@example.org
+#1015,Lumi Skin E-commerce Pipeline,Completed,500000,2026-08-28,2026-08-24,thu.trang.le117@example.com
+#1016,Lumi Skin E-commerce Pipeline,Completed,498000,2026-08-30,2026-08-25,ngoc.han.tran448@example.org
+#1017,Lumi Skin E-commerce Pipeline,Completed,900000,2026-08-30,2026-08-25,bich.ngoc.vo251@example.org
+#1018,Lumi Skin E-commerce Pipeline,Completed,1360000,2026-08-31,2026-08-25,nha.phuong.le464@example.org
+#1019,Lumi Skin E-commerce Pipeline,Completed,525000,2026-08-30,2026-08-26,truc.linh.do110@example.com
+#1020,Lumi Skin E-commerce Pipeline,Completed,285000,2026-09-01,2026-08-27,thu.trang.tran200@example.org
+#1021,Lumi Skin E-commerce Pipeline,Completed,525000,2026-08-31,2026-08-27,dieu.linh.tran443@example.com
+#1022,Lumi Skin E-commerce Pipeline,Completed,800000,2026-09-02,2026-08-27,ngoc.anh.nguyen167@example.org
+#1023,Lumi Skin E-commerce Pipeline,Completed,990000,2026-09-01,2026-08-27,phuong.linh.tran158@example.net
+#1024,Lumi Skin E-commerce Pipeline,Completed,455000,2026-09-02,2026-08-28,minh.chau.phan537@example.net
+#1025,Lumi Skin E-commerce Pipeline,Completed,480000,2026-09-02,2026-08-28,my.linh.le949@example.net
+#1026,Lumi Skin E-commerce Pipeline,Completed,480000,2026-09-01,2026-08-28,bich.ngoc.le111@example.com
+#1027,Lumi Skin E-commerce Pipeline,Completed,750000,2026-09-01,2026-08-28,hong.nhung.tran231@example.com
+#1028,Lumi Skin E-commerce Pipeline,Completed,480000,2026-09-03,2026-08-28,duc.anh.le207@example.com
+#1029,Lumi Skin E-commerce Pipeline,Completed,480000,2026-09-04,2026-08-30,my.linh.pham18@example.com
+#1030,Lumi Skin E-commerce Pipeline,Completed,435000,2026-09-05,2026-08-30,gia.han.le881@example.net
+#1031,Lumi Skin E-commerce Pipeline,Completed,765000,2026-09-05,2026-08-31,ngoc.han.pham80@example.net
+#1032,Lumi Skin E-commerce Pipeline,Completed,300000,2026-09-05,2026-08-31,thuy.duong.tran552@example.net
+#1033,Lumi Skin E-commerce Pipeline,Completed,435000,2026-09-06,2026-08-31,nha.phuong.ngo217@example.org
+#1034,Lumi Skin E-commerce Pipeline,Completed,480000,2026-09-05,2026-09-01,tuyet.nhi.le628@example.com
+#1035,Lumi Skin E-commerce Pipeline,Completed,330000,2026-09-05,2026-09-01,quoc.bao.do645@example.org
+#1036,Lumi Skin E-commerce Pipeline,Completed,435000,2026-09-07,2026-09-02,thu.trang.pham205@example.com
+#1037,Lumi Skin E-commerce Pipeline,Completed,550000,2026-09-07,2026-09-02,nha.phuong.dinh739@example.com
+#1038,Lumi Skin E-commerce Pipeline,Completed,300000,2026-09-06,2026-09-02,cam.tu.nguyen641@example.com
+#1039,Lumi Skin E-commerce Pipeline,Completed,500000,2026-09-07,2026-09-03,thu.trang.nguyen404@example.net
+#1040,Lumi Skin E-commerce Pipeline,Completed,330000,2026-09-09,2026-09-03,huyen.trang.le25@example.com
+#1041,Lumi Skin E-commerce Pipeline,Completed,525000,2026-09-08,2026-09-03,anh.duong.le888@example.net
+#1042,Lumi Skin E-commerce Pipeline,Completed,480000,2026-09-08,2026-09-04,yen.nhi.huynh94@example.com
+#1043,Lumi Skin E-commerce Pipeline,Closed Lost,808000,2026-09-06,2026-09-04,minh.chau.do140@example.org
+#1044,Lumi Skin E-commerce Pipeline,Completed,675000,2026-09-08,2026-09-04,tuong.vi.nguyen514@example.net
+#1045,Lumi Skin E-commerce Pipeline,Completed,720000,2026-09-11,2026-09-05,duc.anh.nguyen919@example.com
+#1046,Lumi Skin E-commerce Pipeline,Completed,900000,2026-09-09,2026-09-05,anh.duong.tran682@example.net
+#1047,Lumi Skin E-commerce Pipeline,Completed,480000,2026-09-10,2026-09-06,tuong.vi.hoang685@example.net
+#1048,Lumi Skin E-commerce Pipeline,Completed,550000,2026-09-12,2026-09-07,phuong.thao.tran70@example.com
+#1049,Lumi Skin E-commerce Pipeline,Completed,945000,2026-09-12,2026-09-08,ngoc.han.nguyen354@example.net
+#1050,Lumi Skin E-commerce Pipeline,Completed,550000,2026-09-12,2026-09-08,anh.tuan.huynh867@example.org
+#1051,Lumi Skin E-commerce Pipeline,Completed,550000,2026-09-12,2026-09-08,ha.my.do35@example.net
+#1052,Lumi Skin E-commerce Pipeline,Completed,720000,2026-09-14,2026-09-08,thanh.thao.duong214@example.net
+#1053,Lumi Skin E-commerce Pipeline,Completed,435000,2026-09-15,2026-09-10,thu.ha.le791@example.org
+#1054,Lumi Skin E-commerce Pipeline,Completed,500000,2026-09-15,2026-09-10,nhu.quynh.tran80@example.net
+#1055,Lumi Skin E-commerce Pipeline,Completed,435000,2026-09-14,2026-09-10,thu.trang.tran934@example.com
+#1056,Lumi Skin E-commerce Pipeline,Completed,500000,2026-09-15,2026-09-11,thu.trang.nguyen894@example.net
+#1057,Lumi Skin E-commerce Pipeline,Completed,435000,2026-09-18,2026-09-14,khanh.vy.nguyen49@example.net
+#1058,Lumi Skin E-commerce Pipeline,Completed,435000,2026-09-19,2026-09-14,quynh.anh.le508@example.org
+#1059,Lumi Skin E-commerce Pipeline,Completed,550000,2026-09-19,2026-09-14,tuyet.nhi.nguyen953@example.org
+#1060,Lumi Skin E-commerce Pipeline,Completed,285000,2026-09-21,2026-09-15,anh.duong.pham160@example.com
+#1061,Lumi Skin E-commerce Pipeline,Completed,675000,2026-09-20,2026-09-15,minh.khang.truong807@example.com
+#1062,Lumi Skin E-commerce Pipeline,Completed,945000,2026-09-21,2026-09-15,mai.anh.dang992@example.com
+#1063,Lumi Skin E-commerce Pipeline,Completed,498000,2026-09-21,2026-09-15,lan.anh.nguyen908@example.com
+#1064,Lumi Skin E-commerce Pipeline,Completed,300000,2026-09-20,2026-09-15,bich.ngoc.nguyen184@example.net
+#1065,Lumi Skin E-commerce Pipeline,Completed,500000,2026-09-19,2026-09-15,thanh.thao.pham535@example.org
+#1066,Lumi Skin E-commerce Pipeline,Completed,498000,2026-09-19,2026-09-15,kim.ngan.nguyen182@example.net
+#1067,Lumi Skin E-commerce Pipeline,Completed,435000,2026-09-21,2026-09-15,bao.tran.huynh134@example.org
+#1068,Lumi Skin E-commerce Pipeline,Completed,300000,2026-09-20,2026-09-15,thu.trang.dinh887@example.net
+#1069,Lumi Skin E-commerce Pipeline,Completed,1000000,2026-09-21,2026-09-16,ngoc.anh.nguyen974@example.org
+#1070,Lumi Skin E-commerce Pipeline,Completed,480000,2026-09-21,2026-09-16,kim.ngan.tran679@example.com
+#1071,Lumi Skin E-commerce Pipeline,Completed,765000,2026-09-22,2026-09-17,bao.ngoc.nguyen76@example.org
+#1072,Lumi Skin E-commerce Pipeline,Completed,505000,2026-09-24,2026-09-18,truc.linh.nguyen249@example.com
+#1073,Lumi Skin E-commerce Pipeline,Completed,900000,2026-09-24,2026-09-18,quynh.anh.le410@example.org
+#1074,Lumi Skin E-commerce Pipeline,Completed,435000,2026-09-24,2026-09-19,hoang.nam.nguyen568@example.org
+#1075,Lumi Skin E-commerce Pipeline,Completed,525000,2026-09-24,2026-09-20,huyen.trang.le58@example.org
+#1076,Lumi Skin E-commerce Pipeline,Completed,945000,2026-09-24,2026-09-20,gia.huy.do549@example.net
+#1077,Lumi Skin E-commerce Pipeline,Completed,950000,2026-09-26,2026-09-21,thao.nguyen.tran326@example.org
+#1078,Lumi Skin E-commerce Pipeline,Completed,675000,2026-09-27,2026-09-21,to.uyen.tran178@example.com
+#1079,Lumi Skin E-commerce Pipeline,Closed Lost,892000,2026-09-23,2026-09-22,phuong.thao.tran735@example.org
+#1080,Lumi Skin E-commerce Pipeline,Completed,435000,2026-09-28,2026-09-22,duc.anh.nguyen211@example.com
+#1081,Lumi Skin E-commerce Pipeline,Completed,1000000,2026-09-28,2026-09-23,gia.han.le881@example.net
+#1082,Lumi Skin E-commerce Pipeline,Completed,550000,2026-09-28,2026-09-24,my.linh.pham18@example.com
+#1083,Lumi Skin E-commerce Pipeline,Completed,300000,2026-09-29,2026-09-24,ngoc.anh.nguyen599@example.net
+#1084,Lumi Skin E-commerce Pipeline,Completed,435000,2026-10-01,2026-09-25,diem.my.le653@example.net
+#1085,Lumi Skin E-commerce Pipeline,Completed,435000,2026-09-29,2026-09-25,nhu.quynh.vu938@example.org
+#1086,Lumi Skin E-commerce Pipeline,Completed,525000,2026-10-02,2026-09-26,to.uyen.nguyen464@example.com
+#1087,Lumi Skin E-commerce Pipeline,Completed,498000,2026-09-30,2026-09-26,cam.tu.truong840@example.com
+#1088,Lumi Skin E-commerce Pipeline,Completed,750000,2026-09-30,2026-09-26,bao.ngoc.le392@example.org
+#1089,Lumi Skin E-commerce Pipeline,Completed,480000,2026-10-03,2026-09-27,nhu.quynh.le305@example.net
+#1090,Lumi Skin E-commerce Pipeline,Completed,1000000,2026-10-01,2026-09-27,quynh.anh.tran433@example.org
+#1091,Lumi Skin E-commerce Pipeline,Completed,550000,2026-10-03,2026-09-27,tuong.vi.nguyen514@example.net
+#1092,Lumi Skin E-commerce Pipeline,Completed,1050000,2026-10-03,2026-09-27,anh.duong.le888@example.net
+#1093,Lumi Skin E-commerce Pipeline,Completed,480000,2026-10-02,2026-09-27,tuyet.nhi.nguyen678@example.org
+#1094,Lumi Skin E-commerce Pipeline,Completed,950000,2026-10-03,2026-09-27,thu.trang.nguyen404@example.net
+#1095,Lumi Skin E-commerce Pipeline,Completed,525000,2026-10-02,2026-09-28,minh.chau.ho745@example.com
+#1096,Lumi Skin E-commerce Pipeline,Completed,850000,2026-10-04,2026-09-30,bich.ngoc.nguyen773@example.com
+#1097,Lumi Skin E-commerce Pipeline,Completed,945000,2026-10-06,2026-09-30,ha.my.nguyen761@example.org
+#1098,Lumi Skin E-commerce Pipeline,Completed,480000,2026-10-04,2026-09-30,bao.tran.duong789@example.org
+#1099,Lumi Skin E-commerce Pipeline,Completed,480000,2026-10-04,2026-09-30,khanh.vy.nguyen256@example.net
+#1100,Lumi Skin E-commerce Pipeline,Closed Lost,525000,2026-10-01,2026-09-30,hai.yen.le626@example.com
+#1101,Lumi Skin E-commerce Pipeline,Completed,522000,2026-10-06,2026-10-01,dieu.linh.tran443@example.com
+#1102,Lumi Skin E-commerce Pipeline,Completed,505000,2026-10-06,2026-10-02,minh.chau.phan537@example.net
+#1103,Lumi Skin E-commerce Pipeline,Completed,480000,2026-10-08,2026-10-02,ngoc.anh.nguyen136@example.net
+#1104,Lumi Skin E-commerce Pipeline,Completed,330000,2026-10-08,2026-10-02,tuan.kiet.do31@example.net
+#1105,Lumi Skin E-commerce Pipeline,Closed Lost,540000,2026-10-04,2026-10-02,thuy.duong.tran391@example.org
+#1106,Lumi Skin E-commerce Pipeline,Completed,900000,2026-10-07,2026-10-02,tuong.vi.hoang685@example.net
+#1107,Lumi Skin E-commerce Pipeline,Completed,330000,2026-10-09,2026-10-03,phuong.linh.tran158@example.net
+#1108,Lumi Skin E-commerce Pipeline,Completed,1200000,2026-10-08,2026-10-03,cam.tu.nguyen641@example.com
+#1109,Lumi Skin E-commerce Pipeline,Completed,900000,2026-10-09,2026-10-03,minh.thu.dang839@example.org
+#1110,Lumi Skin E-commerce Pipeline,Completed,300000,2026-10-08,2026-10-03,gia.huy.ngo576@example.net
+#1111,Lumi Skin E-commerce Pipeline,Completed,750000,2026-10-09,2026-10-03,hong.nhung.tran231@example.com
+#1112,Lumi Skin E-commerce Pipeline,Completed,330000,2026-10-07,2026-10-03,nha.phuong.le464@example.org
+#1113,Lumi Skin E-commerce Pipeline,Completed,500000,2026-10-08,2026-10-04,thanh.truc.le54@example.com
+#1114,Lumi Skin E-commerce Pipeline,Completed,330000,2026-10-09,2026-10-04,ha.my.do35@example.net
+#1115,Lumi Skin E-commerce Pipeline,Completed,500000,2026-10-10,2026-10-05,tuong.vi.huynh742@example.net
+#1116,Lumi Skin E-commerce Pipeline,Completed,1000000,2026-10-09,2026-10-05,thu.trang.le155@example.com
+#1117,Lumi Skin E-commerce Pipeline,Completed,458000,2026-10-09,2026-10-05,nha.phuong.dinh739@example.com
+#1118,Lumi Skin E-commerce Pipeline,Completed,1232000,2026-10-10,2026-10-05,lan.anh.huynh660@example.net
+#1119,Lumi Skin E-commerce Pipeline,Completed,455000,2026-10-09,2026-10-05,thuy.linh.tran898@example.org
+#1120,Lumi Skin E-commerce Pipeline,Completed,455000,2026-10-10,2026-10-05,anh.tuan.phan683@example.org
+#1121,Lumi Skin E-commerce Pipeline,Completed,760000,2026-10-12,2026-10-06,thu.trang.le117@example.com
+#1122,Lumi Skin E-commerce Pipeline,Closed Lost,435000,2026-10-08,2026-10-06,thanh.dat.vu235@example.net
+#1123,Lumi Skin E-commerce Pipeline,Completed,1092000,2026-10-11,2026-10-06,thu.ha.le791@example.org
+#1124,Lumi Skin E-commerce Pipeline,Completed,525000,2026-10-11,2026-10-06,thanh.truc.nguyen615@example.net
+#1125,Lumi Skin E-commerce Pipeline,Completed,315000,2026-10-11,2026-10-07,duc.anh.nguyen919@example.com
+#1126,Lumi Skin E-commerce Pipeline,Completed,550000,2026-10-13,2026-10-07,nha.phuong.ngo217@example.org
+#1127,Lumi Skin E-commerce Pipeline,Completed,480000,2026-10-12,2026-10-07,truc.linh.nguyen895@example.org
+#1128,Lumi Skin E-commerce Pipeline,Completed,300000,2026-10-11,2026-10-07,quoc.bao.tran484@example.com
+#1129,Lumi Skin E-commerce Pipeline,Completed,435000,2026-10-11,2026-10-07,cam.tu.do339@example.com
+#1130,Lumi Skin E-commerce Pipeline,Completed,950000,2026-10-14,2026-10-08,hai.yen.nguyen962@example.net
+#1131,Lumi Skin E-commerce Pipeline,Completed,765000,2026-10-13,2026-10-08,minh.thu.nguyen541@example.com
+#1132,Lumi Skin E-commerce Pipeline,Completed,550000,2026-10-14,2026-10-08,ngoc.han.pham80@example.net
+#1133,Lumi Skin E-commerce Pipeline,Completed,500000,2026-10-12,2026-10-08,bao.ngoc.le851@example.org
+#1134,Lumi Skin E-commerce Pipeline,Completed,480000,2026-10-14,2026-10-08,thu.trang.nguyen894@example.net
+#1135,Lumi Skin E-commerce Pipeline,Completed,300000,2026-10-13,2026-10-08,khanh.vy.tran613@example.org
+#1136,Lumi Skin E-commerce Pipeline,Completed,455000,2026-10-15,2026-10-09,lan.anh.tran547@example.org
+#1137,Lumi Skin E-commerce Pipeline,Completed,455000,2026-10-15,2026-10-10,tuong.vi.nguyen811@example.org
+#1138,Lumi Skin E-commerce Pipeline,Completed,900000,2026-10-16,2026-10-11,thu.trang.tran934@example.com
+#1139,Lumi Skin E-commerce Pipeline,Completed,950000,2026-10-17,2026-10-11,yen.nhi.huynh94@example.com
+#1140,Lumi Skin E-commerce Pipeline,Completed,480000,2026-10-17,2026-10-11,minh.khang.truong807@example.com
+#1141,Lumi Skin E-commerce Pipeline,Completed,458000,2026-10-16,2026-10-12,anh.duong.tran682@example.net
+#1142,Lumi Skin E-commerce Pipeline,Completed,315000,2026-10-16,2026-10-12,quoc.bao.do645@example.org
+#1143,Lumi Skin E-commerce Pipeline,Completed,850000,2026-10-18,2026-10-13,thuy.duong.tran552@example.net
+#1144,Lumi Skin E-commerce Pipeline,Completed,480000,2026-10-17,2026-10-13,thu.trang.pham205@example.com
+#1145,Lumi Skin E-commerce Pipeline,Completed,330000,2026-10-19,2026-10-14,mai.anh.dang992@example.com
+#1146,Lumi Skin E-commerce Pipeline,Closed Lost,550000,2026-10-16,2026-10-15,bao.tran.le968@example.org
+#1147,Lumi Skin E-commerce Pipeline,Completed,505000,2026-10-19,2026-10-15,kim.ngan.nguyen182@example.net
+#1148,Lumi Skin E-commerce Pipeline,Completed,455000,2026-10-21,2026-10-16,phuong.linh.pham619@example.com
+#1149,Lumi Skin E-commerce Pipeline,Completed,1400000,2026-10-20,2026-10-16,kim.ngan.le625@example.net
+#1150,Lumi Skin E-commerce Pipeline,Completed,1080000,2026-10-23,2026-10-17,thanh.truc.le765@example.com
+#1151,Lumi Skin E-commerce Pipeline,Completed,480000,2026-10-21,2026-10-17,quoc.bao.tran988@example.org
+#1152,Lumi Skin E-commerce Pipeline,Completed,1000000,2026-10-22,2026-10-18,nhu.quynh.vu938@example.org
+#1153,Lumi Skin E-commerce Pipeline,Completed,800000,2026-10-24,2026-10-18,mai.anh.nguyen853@example.net
+#1154,Lumi Skin E-commerce Pipeline,Closed Lost,300000,2026-10-20,2026-10-19,nhu.quynh.le957@example.com
+#1155,Lumi Skin E-commerce Pipeline,Completed,500000,2026-10-23,2026-10-19,bao.tran.huynh134@example.org
+#1156,Lumi Skin E-commerce Pipeline,Completed,500000,2026-10-24,2026-10-20,thanh.thao.duong214@example.net
+#1157,Lumi Skin E-commerce Pipeline,Completed,480000,2026-10-26,2026-10-20,truc.linh.phan78@example.org
+#1158,Lumi Skin E-commerce Pipeline,Completed,525000,2026-10-24,2026-10-20,thu.trang.tran702@example.com
+#1159,Lumi Skin E-commerce Pipeline,Completed,720000,2026-10-26,2026-10-20,anh.duong.le809@example.net
+#1160,Lumi Skin E-commerce Pipeline,Completed,550000,2026-10-26,2026-10-21,bao.ngoc.nguyen76@example.org
+#1161,Lumi Skin E-commerce Pipeline,Completed,455000,2026-10-26,2026-10-21,duc.anh.duong687@example.org
+#1162,Lumi Skin E-commerce Pipeline,Completed,750000,2026-10-27,2026-10-22,cam.tu.tran712@example.com
+#1163,Lumi Skin E-commerce Pipeline,Completed,480000,2026-10-26,2026-10-22,phuong.thao.tran70@example.com
+#1164,Lumi Skin E-commerce Pipeline,Completed,330000,2026-10-27,2026-10-22,nhu.quynh.tran80@example.net
+#1165,Lumi Skin E-commerce Pipeline,Completed,480000,2026-10-28,2026-10-23,lan.anh.nguyen519@example.com
+#1166,Lumi Skin E-commerce Pipeline,Completed,1000000,2026-10-27,2026-10-23,thu.trang.nguyen806@example.org
+#1167,Lumi Skin E-commerce Pipeline,Completed,480000,2026-10-27,2026-10-23,yen.nhi.dinh603@example.com
+#1168,Lumi Skin E-commerce Pipeline,Completed,480000,2026-10-28,2026-10-24,tuong.vi.nguyen667@example.net
+#1169,Lumi Skin E-commerce Pipeline,Completed,500000,2026-10-29,2026-10-25,hong.nhung.hoang997@example.com
+#1170,Lumi Skin E-commerce Pipeline,Completed,330000,2026-10-30,2026-10-26,truc.linh.nguyen249@example.com
+#1171,Lumi Skin E-commerce Pipeline,Completed,498000,2026-10-30,2026-10-26,nhu.quynh.vu718@example.net
+#1172,Lumi Skin E-commerce Pipeline,Completed,500000,2026-11-02,2026-10-27,anh.duong.pham613@example.net
+#1173,Lumi Skin E-commerce Pipeline,Closed Lost,750000,2026-10-28,2026-10-27,hai.yen.nguyen380@example.net
+#1174,Lumi Skin E-commerce Pipeline,Completed,850000,2026-11-02,2026-10-28,tuyet.nhi.le109@example.org
+#1175,Lumi Skin E-commerce Pipeline,Completed,550000,2026-11-03,2026-10-29,thu.trang.dinh887@example.net
+#1176,Lumi Skin E-commerce Pipeline,Completed,500000,2026-11-02,2026-10-29,diem.my.tran910@example.org
+#1177,Lumi Skin E-commerce Pipeline,Completed,750000,2026-11-04,2026-10-29,ngoc.han.do377@example.org
+#1178,Lumi Skin E-commerce Pipeline,Completed,435000,2026-11-03,2026-10-29,hai.yen.nguyen816@example.net
+#1179,Lumi Skin E-commerce Pipeline,Completed,550000,2026-11-03,2026-10-29,nhu.quynh.dang873@example.net
+#1180,Lumi Skin E-commerce Pipeline,Completed,808000,2026-11-05,2026-10-30,quynh.anh.le410@example.org
+#1181,Lumi Skin E-commerce Pipeline,Completed,808000,2026-11-03,2026-10-30,bich.ngoc.ly586@example.org
+#1182,Lumi Skin E-commerce Pipeline,Completed,505000,2026-11-04,2026-10-30,thu.trang.nguyen404@example.net
+#1183,Lumi Skin E-commerce Pipeline,Completed,505000,2026-11-04,2026-10-31,hong.nhung.tran231@example.com
+#1184,Lumi Skin E-commerce Pipeline,Completed,458000,2026-11-05,2026-10-31,hoang.nam.nguyen568@example.org
+#1185,Lumi Skin E-commerce Pipeline,Completed,480000,2026-11-07,2026-11-01,phuong.linh.tran158@example.net
+#1186,Lumi Skin E-commerce Pipeline,Completed,720000,2026-11-06,2026-11-01,quynh.anh.tran103@example.org
+#1187,Lumi Skin E-commerce Pipeline,Completed,498000,2026-11-07,2026-11-01,quynh.anh.tran984@example.com
+#1188,Lumi Skin E-commerce Pipeline,Completed,315000,2026-11-07,2026-11-01,to.uyen.tran178@example.com
+#1189,Lumi Skin E-commerce Pipeline,Completed,800000,2026-11-07,2026-11-02,khanh.vy.nguyen641@example.com
+#1190,Lumi Skin E-commerce Pipeline,Completed,1200000,2026-11-08,2026-11-03,thu.trang.tran934@example.com
+#1191,Lumi Skin E-commerce Pipeline,Completed,712000,2026-11-07,2026-11-03,cam.tu.truong840@example.com
+#1192,Lumi Skin E-commerce Pipeline,Completed,480000,2026-11-08,2026-11-04,truc.linh.nguyen951@example.org
+#1193,Lumi Skin E-commerce Pipeline,Completed,525000,2026-11-10,2026-11-04,anh.duong.nguyen846@example.com
+#1194,Lumi Skin E-commerce Pipeline,Completed,1050000,2026-11-10,2026-11-05,diem.my.le653@example.net
+#1195,Lumi Skin E-commerce Pipeline,Completed,525000,2026-11-09,2026-11-05,gia.han.dinh850@example.com
+#1196,Lumi Skin E-commerce Pipeline,Completed,902000,2026-11-10,2026-11-05,thao.nguyen.tran326@example.org
+#1197,Lumi Skin E-commerce Pipeline,Completed,480000,2026-11-10,2026-11-06,to.uyen.nguyen840@example.org
+#1198,Lumi Skin E-commerce Pipeline,Completed,950000,2026-11-11,2026-11-06,ngoc.anh.nguyen90@example.org
+#1199,Lumi Skin E-commerce Pipeline,Completed,750000,2026-11-11,2026-11-07,ngoc.han.pham80@example.net
+#1200,Lumi Skin E-commerce Pipeline,Completed,675000,2026-11-13,2026-11-07,nhu.quynh.pham477@example.org
+#1201,Lumi Skin E-commerce Pipeline,Completed,1050000,2026-11-13,2026-11-07,gia.han.le881@example.net
+#1202,Lumi Skin E-commerce Pipeline,Completed,300000,2026-11-11,2026-11-07,ha.my.nguyen681@example.net
+#1203,Lumi Skin E-commerce Pipeline,Completed,1050000,2026-11-13,2026-11-07,cam.tu.vu853@example.org
+#1204,Lumi Skin E-commerce Pipeline,Completed,525000,2026-11-14,2026-11-08,bao.tran.bui768@example.org
+#1205,Lumi Skin E-commerce Pipeline,Completed,505000,2026-11-13,2026-11-08,minh.chau.phan537@example.net
+#1206,Lumi Skin E-commerce Pipeline,Completed,330000,2026-11-13,2026-11-08,anh.duong.tran682@example.net
+#1207,Lumi Skin E-commerce Pipeline,Completed,330000,2026-11-12,2026-11-08,cam.tu.nguyen641@example.com
+#1208,Lumi Skin E-commerce Pipeline,Shipped & Delivered,505000,2026-11-14,2026-11-09,tuong.vi.hoang685@example.net
+#1209,Lumi Skin E-commerce Pipeline,Shipped & Delivered,330000,2026-11-15,2026-11-10,phuong.linh.vo363@example.org
+#1210,Lumi Skin E-commerce Pipeline,Shipped & Delivered,500000,2026-11-16,2026-11-11,bich.ngoc.le607@example.net
+#1211,Lumi Skin E-commerce Pipeline,Payment Confirmed,500000,2026-11-17,2026-11-12,thu.trang.nguyen894@example.net
+#1212,Lumi Skin E-commerce Pipeline,Payment Confirmed,330000,2026-11-17,2026-11-12,ngoc.han.pham653@example.org
+CART-3001,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,1050000,2026-08-27,2026-08-22,kim.ngan.tran963@example.org
+CART-3002,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,500000,2026-08-29,2026-08-24,to.uyen.tran207@example.net
+CART-3003,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,500000,2026-08-29,2026-08-24,kim.ngan.le35@example.com
+CART-3004,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,500000,2026-08-30,2026-08-25,thuy.duong.le663@example.net
+CART-3005,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,550000,2026-09-01,2026-08-27,gia.han.tran988@example.net
+CART-3006,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,500000,2026-09-04,2026-08-30,kieu.oanh.phan764@example.com
+CART-3007,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,450000,2026-09-12,2026-09-07,thuy.duong.huynh841@example.org
+CART-3008,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,850000,2026-09-12,2026-09-07,thanh.thao.duong934@example.com
+CART-3009,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,300000,2026-09-15,2026-09-10,hai.yen.nguyen300@example.org
+CART-3010,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,500000,2026-09-19,2026-09-14,ngoc.anh.le657@example.org
+CART-3011,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,300000,2026-09-20,2026-09-15,phuong.linh.truong878@example.com
+CART-3012,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,500000,2026-09-25,2026-09-20,diem.my.hoang451@example.com
+CART-3013,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,1000000,2026-10-04,2026-09-29,ngoc.anh.nguyen147@example.com
+CART-3014,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,550000,2026-10-06,2026-10-01,mai.anh.le461@example.org
+CART-3015,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,300000,2026-10-08,2026-10-03,phuong.linh.tran845@example.net
+CART-3016,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,300000,2026-10-09,2026-10-04,gia.han.tran286@example.com
+CART-3017,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,500000,2026-10-10,2026-10-05,tuyet.nhi.le797@example.net
+CART-3018,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,500000,2026-10-13,2026-10-08,minh.thu.le381@example.org
+CART-3019,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,500000,2026-10-17,2026-10-12,huyen.trang.nguyen429@example.com
+CART-3020,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,950000,2026-10-18,2026-10-13,nha.phuong.truong536@example.org
+CART-3021,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,450000,2026-10-21,2026-10-16,minh.chau.do652@example.org
+CART-3022,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,1000000,2026-10-28,2026-10-23,diem.my.tran820@example.net
+CART-3023,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,550000,2026-11-07,2026-11-02,minh.thu.tran326@example.org
+CART-3024,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,950000,2026-11-08,2026-11-03,gia.huy.pham436@example.net
+CART-3025,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,550000,2026-11-10,2026-11-05,phuong.thao.do170@example.org
+CART-3026,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,550000,2026-11-12,2026-11-07,huyen.trang.duong174@example.org
+CART-3027,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,950000,2026-11-13,2026-11-08,bich.ngoc.ngo269@example.com
+CART-3028,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,500000,2026-11-14,2026-11-09,mai.anh.ngo81@example.com
+CART-3029,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,450000,2026-11-14,2026-11-09,minh.khang.le582@example.com
+CART-3030,Lumi Skin E-commerce Pipeline,New Inquiry / Cart Started,500000,2026-11-15,2026-11-10,hong.nhung.pham218@example.org
