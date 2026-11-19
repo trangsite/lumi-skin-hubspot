@@ -71,4 +71,4 @@ Note: HubSpot private apps are no longer available on my account, so I used a **
 ## Author
 
 Trang Nguyen, CRM / marketing operations. 
-Contact: thuytrangdalat99@gmail.com. LinkedIn: www.linkedin.com/in/trang-nguyen-51833921b 
+LinkedIn: www.linkedin.com/in/trang-nguyen-51833921b 
