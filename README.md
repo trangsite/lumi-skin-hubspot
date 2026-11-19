@@ -25,6 +25,8 @@ The client had no CRM. Leads lived in Excel, and nobody knew which ad campaign b
 | `images/` | Images used by the landing page |
 | `apps-script/` | Google Apps Script: reads leads from a Google Sheet and creates or updates contacts in HubSpot (search by email, then create or update) |
 | `sql/queries.sql` | 5 BigQuery queries on campaign performance |
+| `docs/` | Admin documentation |
+| `data/` | data of ad spend daily, contacts, deals |
 
 ## What I built
 
