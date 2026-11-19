@@ -7,10 +7,10 @@ I set up a HubSpot CRM, connected the lead sources, built automations and dashbo
 
 ## Links
 
-- Looker Studio dashboard: https://datastudio.google.com/reporting/f13f8b86-d86e-4311-a3fb-44bff54f0101  
 - Landing page (GitHub Pages): https://trangsite.github.io/lumi-skin-hubspot/
+- Full case study (Notion): https://app.notion.com/p/Lumi-Skin-HubSpot-Admin-Runbook-41dd3a800ccc80048cd3c1d6f0716b79?source=copy_link
+- Looker Studio dashboard: https://datastudio.google.com/reporting/f13f8b86-d86e-4311-a3fb-44bff54f0101
 - Google Drive (dataset, photos, docs): https://drive.google.com/drive/folders/1AmqgrkhIYSL3JHnx6h_mVOzPAKYIVf7w?usp=sharing 
-- Full case study (Notion): coming soon
 
 ## The problem
 
