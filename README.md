@@ -65,8 +65,7 @@ Not done on purpose: running paid ads and adding a payment method to Meta.
 
 ## Security
 
-No API tokens are stored in this repo. The HubSpot token is kept in Apps Script **Script Properties**, not in the code.
-Note: Used a HubSpot Service Key (stored in Apps Script Script Properties) for API authentication instead of hardcoding tokens.
+No API tokens or credentials are stored in this repo. A HubSpot Service Key is stored securely in Apps Script Script Properties for API authentication instead of hardcoding tokens.
 
 ## Author
 
