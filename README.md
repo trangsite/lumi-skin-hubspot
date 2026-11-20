@@ -48,7 +48,7 @@ File: `sql/queries.sql` (BigQuery, dataset `lumi_skin`, tables `contacts`, `deal
 | 4 | Repeat rate by campaign |
 | 5 | Monthly revenue and AOV |
 
-Key results (demo dataset: 90 days, 30,000,000 VND spend, 600 leads, about 20% of the client's real scale): completed revenue 122,386,000 VND, blended ROAS 4.08, repeat rate about 35%.
+Key results (demo dataset, scaled down to about 20% of the simulated client's volume: 90 days, 30,000,000 VND spend, 600 leads): completed revenue 122,386,000 VND, blended ROAS 4.08, repeat rate about 35%.
 Best ROAS: `google_search_brand` (8.8) and `meta_msg_sensitive` (6.7). Weakest: `google_search_generic` (1.8).
 
 ## Real vs simulated
