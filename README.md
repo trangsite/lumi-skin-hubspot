@@ -6,7 +6,7 @@ I set up a HubSpot CRM, connected the lead sources, built automations and dashbo
 > **All data is simulated.** Lumi Skin is not a real company. Emails use example.com / example.org / example.net. Please do not enter real personal data on the landing page.
 
 ## Links
-- Notion hub: https://app.notion.com/p/HubSpot-CRM-Implementation-Lumi-Skin-Portfolio-Project-41dd3a800ccc800f90cefe4dd3d73872?source=copy_link
+- Read the full story with screenshots (Notion): https://app.notion.com/p/HubSpot-CRM-Implementation-Lumi-Skin-Portfolio-Project-41dd3a800ccc800f90cefe4dd3d73872?source=copy_link
 - Landing page (GitHub Pages): https://trangsite.github.io/lumi-skin-hubspot/
 - Admin runbook 5 SOPs (Notion): https://app.notion.com/p/Lumi-Skin-HubSpot-Admin-Runbook-41dd3a800ccc80048cd3c1d6f0716b79?source=copy_link
 - Looker Studio dashboard: https://datastudio.google.com/reporting/f13f8b86-d86e-4311-a3fb-44bff54f0101
