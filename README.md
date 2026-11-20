@@ -31,7 +31,7 @@ The client had no CRM. Leads lived in Excel, and nobody knew which ad campaign b
 ## What I built
 
 1. **HubSpot setup:** deal pipeline, 10 custom contact properties, lists, lifecycle rules, data governance rules.
-2. **Data work:** cleaned a messy Excel file (648 rows → 600 unique contacts) and imported 600 contacts and 242 deals.
+2. **Data work:** cleaned a messy Excel file (648 rows → 600 unique contacts) and imported 600 contacts and 242 deals (excluding ~15 test records created during integration testing).
 3. **Lead capture:** website form with hidden UTM fields; Meta Instant Form connected to HubSpot Ads; Apps Script that syncs contacts through the HubSpot API.
 4. **Automation and reporting:** 3 workflows (new lead, abandoned cart, repeat purchase), a HubSpot dashboard, and a Looker Studio dashboard for ad spend vs revenue.
 5. **SQL:** 5 queries for spend, CPL, conversion, ROAS, repeat rate, monthly revenue and AOV.
